@@ -1,0 +1,101 @@
+/* Global Resets & Base Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100vh;
+  font-family: var(--font-en);
+  font-size: 16px;
+  color: var(--text-main);
+  background: var(--bg-gradient);
+  background-attachment: fixed;
+  transition: background var(--transition-slow), color var(--transition-normal);
+  overflow-x: hidden;
+}
+
+/* Background Grid Overlay for Premium Feel */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: var(--bg-dots);
+  background-size: 24px 24px;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.8;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-muted);
+  border-radius: var(--radius-full);
+  opacity: 0.3;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-blue);
+}
+
+/* Base Headings & Links */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-th);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color var(--transition-fast);
+}
+
+/* Layout Containers */
+.app-container {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  z-index: 1; /* Stay above background dots */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: var(--spacing-lg) 0 var(--spacing-xl);
+}
+
+/* Typography Utilities for Language Switching */
+.lang-th {
+  font-family: var(--font-th);
+}
+
+.lang-en {
+  font-family: var(--font-en);
+}
+
+/* Focus style for accessibility */
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--primary-blue);
+  outline-offset: 2px;
+}

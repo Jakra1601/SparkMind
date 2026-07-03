@@ -1,0 +1,492 @@
+/* UI Components Styles */
+
+/* 1. Header */
+.app-header {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 var(--spacing-lg);
+  margin-top: var(--spacing-md);
+  z-index: 10;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  cursor: pointer;
+}
+
+.logo-icon {
+  font-size: 1.8rem;
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.logo-text {
+  font-family: var(--font-en);
+  font-weight: 700;
+  font-size: 1.4rem;
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.action-btn {
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-full);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  padding: 0;
+}
+
+.lang-btn {
+  font-family: var(--font-en);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+/* 2. Navigation Tabs (Homepage / Explore / Favorites) */
+.nav-tabs {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-sm);
+  margin: var(--spacing-md) 0 var(--spacing-lg);
+}
+
+.tab-btn {
+  padding: var(--spacing-sm) var(--spacing-lg);
+  border-radius: var(--radius-full);
+  font-weight: 500;
+  font-family: var(--font-th);
+  border: 1px solid transparent;
+}
+
+.tab-btn.active {
+  background: var(--primary-gradient);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(124, 77, 255, 0.2);
+}
+
+.tab-btn:not(.active) {
+  color: var(--text-muted);
+}
+
+/* 3. Hero Section */
+.hero-section {
+  text-align: center;
+  margin: var(--spacing-md) 0 var(--spacing-lg);
+}
+
+.hero-title {
+  font-size: 2.2rem;
+  margin-bottom: var(--spacing-xs);
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-subtitle {
+  font-family: var(--font-th);
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+
+/* 4. Active Quote Card (Homepage main display) */
+.active-quote-container {
+  max-width: 650px;
+  width: 100%;
+  margin: var(--spacing-md) auto;
+  perspective: 1000px;
+}
+
+.active-quote-card {
+  padding: var(--spacing-xl);
+  min-height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  position: relative;
+  border-radius: var(--radius-lg);
+}
+
+.quote-decor {
+  font-size: 4rem;
+  line-height: 1;
+  position: absolute;
+  top: 10px;
+  left: 24px;
+  opacity: 0.1;
+  font-family: serif;
+  user-select: none;
+}
+
+.quote-content-wrapper {
+  margin: auto 0;
+  padding: var(--spacing-md) 0;
+}
+
+.quote-text {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  font-weight: 400;
+  margin-bottom: var(--spacing-md);
+  word-wrap: break-word;
+}
+
+.quote-author {
+  font-size: 1rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.quote-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--spacing-lg);
+  border-top: 1px solid var(--glass-border);
+  padding-top: var(--spacing-md);
+}
+
+.category-tag {
+  background: rgba(79, 142, 247, 0.1);
+  color: var(--primary-blue);
+  border: 1px solid rgba(79, 142, 247, 0.2);
+  padding: var(--spacing-xs) var(--spacing-md);
+  border-radius: var(--radius-full);
+  font-size: 0.8rem;
+  font-family: var(--font-th);
+  text-transform: capitalize;
+}
+
+.card-actions {
+  display: flex;
+  gap: var(--spacing-sm);
+}
+
+.heart-btn {
+  color: var(--text-muted);
+  transition: color var(--transition-fast);
+}
+
+.heart-btn.active {
+  color: var(--heart-color);
+}
+
+/* 5. Randomizer Button/Lever */
+.randomizer-container {
+  display: flex;
+  justify-content: center;
+  margin: var(--spacing-md) auto var(--spacing-xl);
+}
+
+.random-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-md) var(--spacing-xxl);
+  font-family: var(--font-th);
+  font-size: 1.1rem;
+  font-weight: 500;
+  border-radius: var(--radius-full);
+  background: var(--primary-gradient);
+  color: #ffffff;
+  border: none;
+  box-shadow: 0 8px 24px rgba(124, 77, 255, 0.25);
+  cursor: pointer;
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast), opacity var(--transition-fast);
+}
+
+.random-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(124, 77, 255, 0.35);
+}
+
+.random-btn:active {
+  transform: translateY(1px);
+}
+
+.random-btn svg {
+  transition: transform var(--transition-slow);
+}
+
+.random-btn.spinning svg {
+  transform: rotate(360deg);
+}
+
+/* 6. Mood Selector (Emoji) */
+.filters-panel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-xl);
+  max-width: 800px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mood-selector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.section-label {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  font-family: var(--font-th);
+}
+
+.mood-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+}
+
+.mood-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-md);
+  font-size: 1.8rem;
+  padding: 0;
+  border: 1px solid var(--glass-border);
+}
+
+.mood-btn span.mood-label {
+  font-size: 0.7rem;
+  font-family: var(--font-th);
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.mood-btn.active {
+  background: var(--primary-gradient);
+  border-color: transparent;
+  color: white;
+  box-shadow: 0 4px 12px rgba(124, 77, 255, 0.2);
+}
+
+.mood-btn.active span.mood-label {
+  color: white;
+}
+
+/* 7. Category Filter */
+.category-filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+}
+
+.cat-btn {
+  padding: var(--spacing-xs) var(--spacing-md);
+  border-radius: var(--radius-full);
+  font-size: 0.85rem;
+  font-family: var(--font-th);
+  border: 1px solid var(--glass-border);
+}
+
+.cat-btn.active {
+  background: var(--text-main);
+  color: var(--bg-color-1);
+  border-color: var(--text-main);
+}
+
+/* 8. Search Bar */
+.search-wrapper {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  width: 100%;
+  padding: var(--spacing-md) var(--spacing-xl) var(--spacing-md) var(--spacing-lg);
+  border-radius: var(--radius-full);
+  font-family: var(--font-th);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--glass-border);
+  color: var(--text-main);
+  font-size: 0.95rem;
+  transition: border-color var(--transition-fast), background var(--transition-fast);
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--primary-blue);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.search-clear {
+  position: absolute;
+  right: var(--spacing-md);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-clear:hover {
+  color: var(--text-main);
+}
+
+/* 9. Quote Grid & Secondary Card */
+.quote-grid-section {
+  width: 100%;
+}
+
+.grid-status {
+  text-align: center;
+  font-family: var(--font-th);
+  color: var(--text-muted);
+  margin-bottom: var(--spacing-md);
+}
+
+.quote-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--spacing-md);
+  width: 100%;
+}
+
+.grid-card {
+  padding: var(--spacing-lg);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 200px;
+}
+
+.grid-card-text {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin-bottom: var(--spacing-md);
+  word-wrap: break-word;
+}
+
+.grid-card-author {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* 10. Toast Notification */
+.toast-container {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 999;
+  pointer-events: none;
+}
+
+.toast {
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(8px);
+  color: #ffffff;
+  padding: var(--spacing-sm) var(--spacing-lg);
+  border-radius: var(--radius-full);
+  font-family: var(--font-th);
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+:root[data-theme='dark'] .toast {
+  background: rgba(255, 255, 255, 0.9);
+  color: #0f172a;
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+/* 11. Empty State (e.g. no favorites) */
+.empty-state {
+  text-align: center;
+  padding: var(--spacing-xxl) var(--spacing-lg);
+  color: var(--text-muted);
+  font-family: var(--font-th);
+}
+
+.empty-state-icon {
+  font-size: 3rem;
+  margin-bottom: var(--spacing-md);
+  opacity: 0.5;
+}
+
+/* 12. Footer */
+.app-footer {
+  text-align: center;
+  padding: var(--spacing-xl) 0 var(--spacing-md);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-family: var(--font-th);
+  border-top: 1px solid var(--glass-border);
+  margin-top: var(--spacing-xxl);
+}
+
+.footer-link {
+  color: var(--primary-blue);
+  margin-left: 4px;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Overrides */
+@media (max-width: 600px) {
+  .hero-title {
+    font-size: 1.8rem;
+  }
+  
+  .active-quote-card {
+    padding: var(--spacing-lg);
+    min-height: 240px;
+  }
+  
+  .quote-text {
+    font-size: 1.25rem;
+  }
+  
+  .mood-btn {
+    width: 54px;
+    height: 54px;
+    font-size: 1.5rem;
+  }
+  
+  .random-btn {
+    padding: var(--spacing-md) var(--spacing-xl);
+    width: 100%;
+  }
+}

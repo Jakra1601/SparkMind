@@ -1,0 +1,83 @@
+/* CSS Variables & Design Tokens */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Prompt:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Brand Colors */
+  --primary-blue: #4F8EF7;
+  --primary-purple: #7C4DFF;
+  --primary-gradient: linear-gradient(135deg, var(--primary-blue), var(--primary-purple));
+  
+  /* Fonts */
+  --font-en: 'Outfit', 'Inter', sans-serif;
+  --font-th: 'Prompt', sans-serif;
+  
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2.5rem;
+  --spacing-xxl: 4rem;
+
+  /* Transitions */
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-full: 9999px;
+  
+  /* Shared Glassmorphism bases */
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.08);
+}
+
+/* Light Theme Variables */
+:root[data-theme='light'] {
+  --bg-color-1: #eef2f7;
+  --bg-color-2: #dfe6f0;
+  --bg-gradient: linear-gradient(180deg, #f5f8fc 0%, #e4ecf5 100%);
+  --bg-dots: radial-gradient(#d3dfef 1px, transparent 1px);
+  
+  --text-main: #2b3a4a;
+  --text-muted: #5c6f84;
+  --text-light: #ffffff;
+  
+  --glass-bg: rgba(255, 255, 255, 0.45);
+  --glass-border: rgba(255, 255, 255, 0.4);
+  --glass-card-bg: rgba(255, 255, 255, 0.5);
+  --glass-card-border: rgba(255, 255, 255, 0.5);
+  
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 8px 24px rgba(149, 157, 165, 0.15);
+  --shadow-lg: 0 16px 48px rgba(149, 157, 165, 0.25);
+  
+  --heart-color: #ff4757;
+  --card-hover-border: rgba(79, 142, 247, 0.3);
+}
+
+/* Dark Theme Variables */
+:root[data-theme='dark'] {
+  --bg-color-1: #0a0d14;
+  --bg-color-2: #121624;
+  --bg-gradient: linear-gradient(180deg, #090c15 0%, #111422 100%);
+  --bg-dots: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  
+  --text-main: #e2e8f0;
+  --text-muted: #94a3b8;
+  --text-light: #0f172a;
+  
+  --glass-bg: rgba(15, 23, 42, 0.45);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-card-bg: rgba(20, 29, 51, 0.5);
+  --glass-card-border: rgba(255, 255, 255, 0.06);
+  
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.4);
+  
+  --heart-color: #ff6b81;
+  --card-hover-border: rgba(124, 77, 255, 0.3);
+}

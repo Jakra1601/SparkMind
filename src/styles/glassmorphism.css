@@ -1,0 +1,113 @@
+/* Glassmorphism Styles & Utilities */
+
+.glass-nav {
+  background: var(--glass-bg);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border-bottom: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+}
+
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-md);
+}
+
+.glass-card {
+  background: var(--glass-card-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-card-border);
+  box-shadow: var(--glass-shadow);
+  border-radius: var(--radius-lg);
+  transition: transform var(--transition-normal), 
+              box-shadow var(--transition-normal), 
+              border-color var(--transition-normal);
+  position: relative;
+  overflow: hidden;
+}
+
+.glass-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0) 100%);
+  pointer-events: none;
+}
+
+/* Card Hover Effects */
+.glass-card.hover-trigger:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.12);
+  border-color: var(--card-hover-border);
+}
+
+/* Translucent Glass Buttons */
+.glass-btn {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: var(--shadow-sm);
+  color: var(--text-main);
+  cursor: pointer;
+  transition: background var(--transition-fast), 
+              transform var(--transition-fast), 
+              border-color var(--transition-fast);
+}
+
+:root[data-theme='dark'] .glass-btn {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.glass-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: var(--primary-blue);
+  transform: scale(1.02);
+}
+
+:root[data-theme='dark'] .glass-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.glass-btn:active {
+  transform: scale(0.98);
+}
+
+/* Glowing Aura behind Glass Cards */
+.glow-wrapper {
+  position: relative;
+}
+
+.glow-aura {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  filter: blur(60px);
+  pointer-events: none;
+  opacity: 0.3;
+  z-index: -1;
+  transition: background var(--transition-slow);
+}
+
+.glow-blue {
+  background: var(--primary-blue);
+  top: -20px;
+  left: -20px;
+}
+
+.glow-purple {
+  background: var(--primary-purple);
+  bottom: -20px;
+  right: -20px;
+}
