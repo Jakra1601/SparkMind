@@ -21,6 +21,7 @@
 .logo-icon {
   font-size: 1.8rem;
   background: var(--primary-gradient);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 800;
@@ -32,6 +33,7 @@
   font-weight: 700;
   font-size: 1.4rem;
   background: var(--primary-gradient);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -95,6 +97,7 @@
   font-size: 2.2rem;
   margin-bottom: var(--spacing-xs);
   background: var(--primary-gradient);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
