@@ -81,7 +81,7 @@ function SparkMindApp() {
   const t = useMemo(() => TRANSLATIONS[lang], [lang]);
 
   // Load quote list
-  const allQuotes = useMemo(() => quoteService.getAllQuotes(), []);
+  const allQuotes = useMemo(() => quoteService.getAllQuotes(lang), [lang]);
 
   // Filter quotes for Explore tab
   const filteredQuotes = useMemo(() => {
@@ -95,8 +95,8 @@ function SparkMindApp() {
 
   // Filter quotes for Favorites tab
   const favoritedQuotes = useMemo(() => {
-    return allQuotes.filter(q => favorites.includes(q.id) && q.lang === lang);
-  }, [allQuotes, favorites, lang]);
+    return allQuotes.filter(q => favorites.includes(q.id));
+  }, [allQuotes, favorites]);
 
   // Handle toast notification
   const showToast = (message) => {
@@ -110,10 +110,8 @@ function SparkMindApp() {
   const handleRandomize = () => {
     setIsSpinning(true);
     
-    // Filter quotes of selected language for randomizing
-    const currentLangQuotes = allQuotes.filter(q => q.lang === lang);
     const excludeId = activeQuote ? activeQuote.id : null;
-    const randomQuote = quoteService.getRandomQuote(currentLangQuotes, excludeId);
+    const randomQuote = quoteService.getRandomQuote(allQuotes, excludeId);
     
     // Slight timeout to simulate mechanical spin feeling
     setTimeout(() => {
@@ -124,9 +122,13 @@ function SparkMindApp() {
 
   // Switch activeQuote on language change or component mount
   useEffect(() => {
-    const currentLangQuotes = allQuotes.filter(q => q.lang === lang);
-    const quote = quoteService.getRandomQuote(currentLangQuotes);
-    setActiveQuote(quote);
+    setActiveQuote(prev => {
+      if (prev) {
+        const matchingQuote = allQuotes.find(q => q.id === prev.id);
+        if (matchingQuote) return matchingQuote;
+      }
+      return quoteService.getRandomQuote(allQuotes);
+    });
   }, [lang, allQuotes]);
 
   // Reset filter when switching tabs

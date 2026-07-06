@@ -2,11 +2,20 @@ import quotesData from '../data/quotes.json';
 
 export const quoteService = {
   /**
-   * Get all quotes
+   * Get all quotes, optionally localized
+   * @param {string} lang Optional language code ('th' or 'en')
    * @returns {Array} Array of quotes
    */
-  getAllQuotes() {
-    return quotesData;
+  getAllQuotes(lang = '') {
+    if (!lang) return quotesData;
+    return quotesData.map(q => ({
+      id: q.id,
+      text: typeof q.text === 'object' ? (q.text[lang] || q.text['en'] || '') : q.text,
+      author: typeof q.author === 'object' ? (q.author[lang] || q.author['en'] || '') : q.author,
+      mood: q.mood,
+      category: q.category,
+      lang: lang
+    }));
   },
 
   /**
@@ -33,7 +42,7 @@ export const quoteService = {
   filterQuotes(quotes = quotesData, { mood = '', category = '', search = '', lang = '' } = {}) {
     return quotes.filter(quote => {
       // 1. Language Filter
-      if (lang && quote.lang !== lang) {
+      if (lang && quote.lang && quote.lang !== lang) {
         return false;
       }
       
@@ -50,8 +59,11 @@ export const quoteService = {
       // 4. Text Search Filter (content or author)
       if (search) {
         const query = search.toLowerCase().trim();
-        const textMatch = quote.text.toLowerCase().includes(query);
-        const authorMatch = quote.author.toLowerCase().includes(query);
+        const quoteText = typeof quote.text === 'object' ? (quote.text[lang] || quote.text['en'] || '') : quote.text;
+        const quoteAuthor = typeof quote.author === 'object' ? (quote.author[lang] || quote.author['en'] || '') : quote.author;
+
+        const textMatch = quoteText.toLowerCase().includes(query);
+        const authorMatch = quoteAuthor.toLowerCase().includes(query);
         return textMatch || authorMatch;
       }
 

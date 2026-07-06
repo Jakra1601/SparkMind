@@ -1,1921 +1,1561 @@
 [
   {
     "id": "q1",
-    "text": "ความล้มเหลวไม่ใช่ขั้วตรงข้ามของความสำเร็จ แต่เป็นส่วนหนึ่งของมันต่างหาก",
-    "author": "Arianna Huffington",
-    "lang": "th",
+    "text": {
+      "th": "ความล้มเหลวไม่ใช่ขั้วตรงข้ามของความสำเร็จ แต่เป็นส่วนหนึ่งของมันต่างหาก",
+      "en": "Failure is not the opposite of success; it's part of success."
+    },
+    "author": {
+      "th": "อารีอันนา ฮัฟฟิงตัน",
+      "en": "Arianna Huffington"
+    },
     "mood": "motivated",
     "category": "growth"
   },
   {
     "id": "q2",
-    "text": "Failure is not the opposite of success; it's part of success.",
-    "author": "Arianna Huffington",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "growth"
-  },
-  {
-    "id": "q3",
-    "text": "ก้าวสั้นๆ ในทิศทางที่ถูกต้อง ดีกว่าก้าวกระโดดใหญ่ๆ แต่หลงทาง",
-    "author": "สุภาษิตโบราณ",
-    "lang": "th",
+    "text": {
+      "th": "ก้าวสั้นๆ ในทิศทางที่ถูกต้อง ดีกว่าก้าวกระโดดใหญ่ๆ แต่หลงทาง",
+      "en": "Small steps in the right direction can turn out to be the biggest step of your life."
+    },
+    "author": {
+      "th": "สุภาษิตโบราณ",
+      "en": "Anonymous"
+    },
     "mood": "calm",
     "category": "life"
   },
   {
+    "id": "q3",
+    "text": {
+      "th": "วิธีเดียวที่จะทำงานได้ยอดเยี่ยม คือรักในสิ่งที่คุณทำ",
+      "en": "The only way to do great work is to love what you do."
+    },
+    "author": {
+      "th": "สตีฟ จอบส์",
+      "en": "Steve Jobs"
+    },
+    "mood": "inspired",
+    "category": "work"
+  },
+  {
     "id": "q4",
-    "text": "Small steps in the right direction can turn out to be the biggest step of your life.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "calm",
+    "text": {
+      "th": "ไม่เป็นไรเลยที่จะรู้สึกเหนื่อยในวันนี้ พักสักนิดแล้วพรุ่งนี้ค่อยเริ่มใหม่",
+      "en": "It is okay to be tired today. Rest for a while, and start fresh tomorrow."
+    },
+    "author": {
+      "th": "SparkMind",
+      "en": "SparkMind"
+    },
+    "mood": "tired",
     "category": "life"
   },
   {
     "id": "q5",
-    "text": "วิธีเดียวที่จะทำงานได้ยอดเยี่ยม คือรักในสิ่งที่คุณทำ",
-    "author": "Steve Jobs",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "work"
+    "text": {
+      "th": "ความรักที่แท้จริงเริ่มต้นจากความรู้สึกรักและยอมรับในตัวเองก่อน",
+      "en": "Self-love is the source of all other loves."
+    },
+    "author": {
+      "th": "ปีแยร์ กอร์แนย์",
+      "en": "Pierre Corneille"
+    },
+    "mood": "happy",
+    "category": "love"
   },
   {
     "id": "q6",
-    "text": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "work"
+    "text": {
+      "th": "แก้วที่แตกแล้วถึงจะประกอบใหม่ได้ แต่ก็ยังมีรอยร้าว เช่นเดียวกับหัวใจที่แตกสลาย แต่จำไว้ว่าแสงแดดยังคงลอดผ่านรอยร้าวนั้นได้เสมอ",
+      "en": "The cracks are where the light gets in."
+    },
+    "author": {
+      "th": "เลนเนิร์ด โคเฮน",
+      "en": "Leonard Cohen"
+    },
+    "mood": "heartbroken",
+    "category": "love"
   },
   {
     "id": "q7",
-    "text": "ไม่เป็นไรเลยที่จะรู้สึกเหนื่อยในวันนี้ พักสักนิดแล้วพรุ่งนี้ค่อยเริ่มใหม่",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
+    "text": {
+      "th": "ไม่มีคำว่าสายเกินไปสำหรับการเริ่มต้นเรียนรู้สิ่งใหม่ๆ",
+      "en": "It is never too late to be what you might have been."
+    },
+    "author": {
+      "th": "จอร์จ เอเลียต",
+      "en": "George Eliot"
+    },
+    "mood": "inspired",
+    "category": "study"
   },
   {
     "id": "q8",
-    "text": "It is okay to be tired today. Rest for a while, and start fresh tomorrow.",
-    "author": "SparkMind",
-    "lang": "en",
+    "text": {
+      "th": "ความพยายามครั้งที่ 100 อาจจะไม่สำเร็จ แต่การไม่ยอมแพ้จะทำให้คุณเก่งขึ้นในทุกๆ ครั้ง",
+      "en": "It does not matter how slowly you go as long as you do not stop."
+    },
+    "author": {
+      "th": "ขงจื๊อ",
+      "en": "Confucius"
+    },
+    "mood": "motivated",
+    "category": "study"
+  },
+  {
+    "id": "q9",
+    "text": {
+      "th": "ปล่อยให้ตัวเราได้พักผ่อนบ้าง โลกนี้ไม่ได้ใจร้ายขนาดที่จะไม่เหลือพื้นที่ให้เราหายใจ",
+      "en": "Give yourself a break. You are doing the best you can."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
     "mood": "tired",
     "category": "life"
   },
   {
-    "id": "q9",
-    "text": "ความรักที่แท้จริงเริ่มต้นจากความรู้สึกรักและยอมรับในตัวเองก่อน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "love"
-  },
-  {
     "id": "q10",
-    "text": "Self-love is the source of all other loves.",
-    "author": "Pierre Corneille",
-    "lang": "en",
-    "mood": "happy",
-    "category": "love"
+    "text": {
+      "th": "ความเงียบสงบไม่ได้หมายถึงการไม่มีเสียง แต่หมายถึงใจเราที่นิ่งพอท่ามกลางเสียงสะท้อนรอบตัว",
+      "en": "Calmness is the cradle of power."
+    },
+    "author": {
+      "th": "โจไซอาห์ กิลเบิร์ต ฮอลแลนด์",
+      "en": "Josiah Gilbert Holland"
+    },
+    "mood": "calm",
+    "category": "life"
   },
   {
     "id": "q11",
-    "text": "แก้วที่แตกแล้วถึงจะประกอบใหม่ได้ แต่ก็ยังมีรอยร้าว เช่นเดียวกับหัวใจที่แตกสลาย แต่จำไว้ว่าแสงแดดยังคงลอดผ่านรอยร้าวนั้นได้เสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "love"
+    "text": {
+      "th": "ความสุขไม่ได้เกิดจากการมีครบทุกอย่าง แต่เกิดจากการเห็นคุณค่าของสิ่งที่เรามีอยู่แล้ว",
+      "en": "Happiness is not having what you want. It is wanting what you have."
+    },
+    "author": {
+      "th": "แรบไบ ไฮแมน แชชเทล",
+      "en": "Rabbi Hyman Schachtel"
+    },
+    "mood": "happy",
+    "category": "growth"
   },
   {
     "id": "q12",
-    "text": "The cracks are where the light gets in.",
-    "author": "Leonard Cohen",
-    "lang": "en",
+    "text": {
+      "th": "การสูญเสียสิ่งหนึ่งอาจเป็นการเปิดโอกาสให้สิ่งที่ดีกว่าได้เข้ามาในชีวิต",
+      "en": "Every time your heart is broken, a doorway cracks open to a world full of new beginnings."
+    },
+    "author": {
+      "th": "แพตตี โรเบิร์ตส์",
+      "en": "Patti Roberts"
+    },
     "mood": "heartbroken",
-    "category": "love"
+    "category": "life"
   },
   {
     "id": "q13",
-    "text": "ไม่มีคำว่าสายเกินไปสำหรับการเริ่มต้นเรียนรู้สิ่งใหม่ๆ",
-    "author": "George Eliot",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "study"
+    "text": {
+      "th": "จงเชื่อมั่นในตัวเอง เพราะไม่มีใครสามารถทำลายความพยายามของคุณได้นอกจากตัวคุณเอง",
+      "en": "Believe you can and you're halfway there."
+    },
+    "author": {
+      "th": "ทีโอดอร์ รูสเวลต์",
+      "en": "Theodore Roosevelt"
+    },
+    "mood": "motivated",
+    "category": "growth"
   },
   {
     "id": "q14",
-    "text": "It is never too late to be what you might have been.",
-    "author": "George Eliot",
-    "lang": "en",
+    "text": {
+      "th": "การก้าวออกจาก Comfort Zone อาจทำให้อึดอัดในช่วงแรก แต่เป็นทางเดียวที่จะทำให้เราเติบโตขึ้น",
+      "en": "Great things never came from comfort zones."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
     "mood": "inspired",
-    "category": "study"
+    "category": "growth"
   },
   {
     "id": "q15",
-    "text": "ความพยายามครั้งที่ 100 อาจจะไม่สำเร็จ แต่การไม่ยอมแพ้จะทำให้คุณเก่งขึ้นในทุกๆ ครั้ง",
-    "author": "SparkMind",
-    "lang": "th",
+    "text": {
+      "th": "อย่าเพิ่งยอมแพ้กับวันนี้ เพราะความพยายามในวันนี้อาจกำลังผลิดอกออกผลในวันพรุ่งนี้ที่คุณมองไม่เห็น",
+      "en": "Don't stop when you are tired. Stop when you are done."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
     "mood": "motivated",
-    "category": "study"
+    "category": "work"
   },
   {
     "id": "q16",
-    "text": "It does not matter how slowly you go as long as you do not stop.",
-    "author": "Confucius",
-    "lang": "en",
-    "mood": "motivated",
+    "text": {
+      "th": "ความรู้ไม่มีที่สิ้นสุด และทุกหยาดเหงื่อที่คุณเสียไปในการเรียนรู้ จะย้อนกลับมาช่วยสนับสนุนคุณในวันข้างหน้า",
+      "en": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
+    },
+    "author": {
+      "th": "มัลคอล์ม เอกซ์",
+      "en": "Malcolm X"
+    },
+    "mood": "inspired",
     "category": "study"
   },
   {
     "id": "q17",
-    "text": "ปล่อยให้ตัวเราได้พักผ่อนบ้าง โลกนี้ไม่ได้ใจร้ายขนาดที่จะไม่เหลือพื้นที่ให้เราหายใจ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
+    "text": {
+      "th": "บางครั้ง ความสุขก็เกิดขึ้นจากการที่เราหยุดวิ่ง แล้วหันมาชื่นชมสิ่งรอบตัวในจังหวะชีวิตที่ช้าลง",
+      "en": "Slow down and enjoy life. It's not only the scenery you miss by going too fast."
+    },
+    "author": {
+      "th": "เอ็ดดี้ แคนเตอร์",
+      "en": "Eddie Cantor"
+    },
+    "mood": "calm",
     "category": "life"
   },
   {
     "id": "q18",
-    "text": "Give yourself a break. You are doing the best you can.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
+    "text": {
+      "th": "ในตอนที่หัวใจต้องเจ็บช้ำจากการบอกลา จำไว้ว่าคุณกำลังได้รับสิทธิ์ในการเริ่มต้นรักตัวเราเองอย่างดีที่สุดอีกครั้ง",
+      "en": "Sometimes good things fall apart so better things can fall together."
+    },
+    "author": {
+      "th": "มาริลิน มอนโร",
+      "en": "Marilyn Monroe"
+    },
+    "mood": "heartbroken",
+    "category": "love"
   },
   {
     "id": "q19",
-    "text": "ความเงียบสงบไม่ได้หมายถึงการไม่มีเสียง แต่หมายถึงใจเราที่นิ่งพอท่ามกลางเสียงสะท้อนรอบตัว",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
+    "text": {
+      "th": "วันไหนที่รู้สึกว่าเดินต่อไม่ไหว ก็แค่นั่งลงพักหายใจยาวๆ สักห้านาที โลกใบนี้รอคุณอยู่เสมอ",
+      "en": "It's fine to take a break. You are a human, not a machine."
+    },
+    "author": {
+      "th": "SparkMind",
+      "en": "SparkMind"
+    },
+    "mood": "tired",
     "category": "life"
   },
   {
     "id": "q20",
-    "text": "Calmness is the cradle of power.",
-    "author": "Josiah Gilbert Holland",
-    "lang": "en",
-    "mood": "calm",
+    "text": {
+      "th": "รอยยิ้มของคุณมีค่ามากที่สุด จงส่งยิ้มให้ตัวเองในกระจกทุกเช้าเพื่อเริ่มวันดีๆ ไปด้วยกัน",
+      "en": "A smile is a curve that sets everything straight."
+    },
+    "author": {
+      "th": "ฟิลลิส ดิลเลอร์",
+      "en": "Phyllis Diller"
+    },
+    "mood": "happy",
     "category": "life"
   },
   {
     "id": "q21",
-    "text": "ความสุขไม่ได้เกิดจากการมีครบทุกอย่าง แต่เกิดจากการเห็นคุณค่าของสิ่งที่เรามีอยู่แล้ว",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "คุณไม่จำเป็นต้องเป็นคนที่เก่งที่สุด แค่เป็นคนที่ดีขึ้นกว่าคุณคนเมื่อวานก็เพียงพอแล้ว",
+      "en": "Compare yourself to who you were yesterday, not to who someone else is today."
+    },
+    "author": {
+      "th": "จอร์แดน พีเตอร์สัน",
+      "en": "Jordan Peterson"
+    },
+    "mood": "motivated",
     "category": "growth"
   },
   {
     "id": "q22",
-    "text": "Happiness is not having what you want. It is wanting what you have.",
-    "author": "Rabbi Hyman Schachtel",
-    "lang": "en",
-    "mood": "happy",
-    "category": "growth"
+    "text": {
+      "th": "ความกดดันมีขึ้นเพื่อให้เราได้ปรับมุมมอง ไม่ใช่มีเพื่อให้เรายอมจำนนต่ออุปสรรค",
+      "en": "Do not let the behavior of others destroy your inner peace."
+    },
+    "author": {
+      "th": "องค์ดาไลลามะ",
+      "en": "Dalai Lama"
+    },
+    "mood": "calm",
+    "category": "work"
   },
   {
     "id": "q23",
-    "text": "การสูญเสียสิ่งหนึ่งอาจเป็นการเปิดโอกาสให้สิ่งที่ดีกว่าได้เข้ามาในชีวิต",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "life"
+    "text": {
+      "th": "ผลลัพธ์ของความอดทนในการเรียนรู้อาจจะขมขื่น แต่ผลของมันจะหอมหวานเสมอ",
+      "en": "The roots of education are bitter, but the fruit is sweet."
+    },
+    "author": {
+      "th": "อริสโตเติล",
+      "en": "Aristotle"
+    },
+    "mood": "inspired",
+    "category": "study"
   },
   {
     "id": "q24",
-    "text": "Every time your heart is broken, a doorway cracks open to a world full of new beginnings.",
-    "author": "Patti Roberts",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "life"
+    "text": {
+      "th": "ความรักที่ดีจะไม่บังคับให้ใครเปลี่ยนไป แต่จะทำให้ทั้งคู่เรียนรู้ที่จะเติบโตไปพร้อมๆ กัน",
+      "en": "Love does not consist in gazing at each other, but in looking outward together in the same direction."
+    },
+    "author": {
+      "th": "อ็องตวน เดอ แซ็งเตกซูว์เปรี",
+      "en": "Antoine de Saint-Exupéry"
+    },
+    "mood": "happy",
+    "category": "love"
   },
   {
     "id": "q25",
-    "text": "จงเชื่อมั่นในตัวเอง เพราะไม่มีใครสามารถทำลายความพยายามของคุณได้นอกจากตัวคุณเอง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
+    "text": {
+      "th": "น้ำนิ่งจะใสและมองเห็นก้นสระ เช่นเดียวกับใจที่สงบจะมองเห็นทางออกในทุกปัญหา",
+      "en": "Peace comes from within. Do not seek it without."
+    },
+    "author": {
+      "th": "พระพุทธเจ้า",
+      "en": "Buddha"
+    },
+    "mood": "calm",
     "category": "growth"
   },
   {
     "id": "q26",
-    "text": "Believe you can and you're halfway there.",
-    "author": "Theodore Roosevelt",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "ความสุขไม่ใช่จุดหมายปลายทางของการเดินทาง แต่เป็นวิธีการเดินทางของเราในทุกๆ วัน",
+      "en": "Happiness is a journey, not a destination."
+    },
+    "author": {
+      "th": "ซูซา",
+      "en": "Souza"
+    },
+    "mood": "happy",
+    "category": "life"
   },
   {
     "id": "q27",
-    "text": "การก้าวออกจาก Comfort Zone อาจทำให้อึดอัดในช่วงแรก แต่เป็นทางเดียวที่จะทำให้เราเติบโตขึ้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
+    "text": {
+      "th": "ไม่แปลกเลยที่จะร้องไห้เมื่อเหนื่อยล้า หยาดน้ำตาเป็นแค่เครื่องเตือนใจว่าคุณตั้งใจพยายามอย่างมากแล้วต่างหาก",
+      "en": "Crying doesn't mean you are weak. Since birth, it has always been a sign that you are alive."
+    },
+    "author": {
+      "th": "ชาร์ลอตต์ บรอนเต",
+      "en": "Charlotte Bronte"
+    },
+    "mood": "tired",
+    "category": "life"
   },
   {
     "id": "q28",
-    "text": "Great things never came from comfort zones.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
+    "text": {
+      "th": "วันที่มีลมพายุพัดแรง ท้องฟ้าอาจดูมืดมน แต่จำไว้ว่าไม่มีพายุลูกไหนที่จะพัดอยู่ตลอดกาล",
+      "en": "Even the darkest night will end and the sun will rise."
+    },
+    "author": {
+      "th": "วิกตอร์ อูโก",
+      "en": "Victor Hugo"
+    },
+    "mood": "tired",
+    "category": "life"
   },
   {
     "id": "q29",
-    "text": "อย่าเพิ่งยอมแพ้กับวันนี้ เพราะความพยายามในวันนี้อาจกำลังผลิดอกออกผลในวันพรุ่งนี้ที่คุณมองไม่เห็น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "work"
-  },
-  {
-    "id": "q30",
-    "text": "Don't stop when you are tired. Stop when you are done.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "work"
-  },
-  {
-    "id": "q31",
-    "text": "ความรู้ไม่มีที่สิ้นสุด และทุกหยาดเหงื่อที่คุณเสียไปในการเรียนรู้ จะย้อนกลับมาช่วยสนับสนุนคุณในวันข้างหน้า",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q32",
-    "text": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
-    "author": "Malcolm X",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q33",
-    "text": "บางครั้ง ความสุขก็เกิดขึ้นจากการที่เราหยุดวิ่ง แล้วหันมาชื่นชมสิ่งรอบตัวในจังหวะชีวิตที่ช้าลง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q34",
-    "text": "Slow down and enjoy life. It's not only the scenery you miss by going too fast.",
-    "author": "Eddie Cantor",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q35",
-    "text": "ในตอนที่หัวใจต้องเจ็บช้ำจากการบอกลา จำไว้ว่าคุณกำลังได้รับสิทธิ์ในการเริ่มต้นรักตัวเราเองอย่างดีที่สุดอีกครั้ง",
-    "author": "SparkMind",
-    "lang": "th",
+    "text": {
+      "th": "การอกหักอาจจะทำให้หัวใจเจ็บปวด แต่มันก็ช่วยคัดกรองคนที่ไม่ใช่ เพื่อให้เราพร้อมต้อนรับคนที่ดีพอในเวลาที่เหมาะสม",
+      "en": "Sometimes a heartbreak is what wakes us up and helps us see we are worth so much more than we were settling for."
+    },
+    "author": {
+      "th": "แมนดี้ เฮล",
+      "en": "Mandy Hale"
+    },
     "mood": "heartbroken",
     "category": "love"
   },
   {
-    "id": "q36",
-    "text": "Sometimes good things fall apart so better things can fall together.",
-    "author": "Marilyn Monroe",
-    "lang": "en",
+    "id": "q30",
+    "text": {
+      "th": "อย่าเสียใจกับสิ่งที่ผ่านไปแล้ว จงขอบคุณมันที่สอนให้เราเข้มแข็งขึ้นในวันนี้",
+      "en": "Don't cry because it's over, smile because it happened."
+    },
+    "author": {
+      "th": "ดร. ซูสส์",
+      "en": "Dr. Seuss"
+    },
     "mood": "heartbroken",
+    "category": "life"
+  },
+  {
+    "id": "q31",
+    "text": {
+      "th": "การมีรอยยิ้มไม่ได้หมายถึงชีวิตไม่มีปัญหา แต่หมายถึงเรามีทัศนคติที่เหนือกว่าปัญหาเหล่านั้น",
+      "en": "Smile, it’s free therapy."
+    },
+    "author": {
+      "th": "ดักลาส ฮอร์ตัน",
+      "en": "Douglas Horton"
+    },
+    "mood": "happy",
+    "category": "life"
+  },
+  {
+    "id": "q32",
+    "text": {
+      "th": "ความสุขเป็นสิ่งเดียวที่จะเพิ่มพูนขึ้นได้ เมื่อคุณแบ่งปันมันให้กับผู้อื่น",
+      "en": "Happiness is like a kiss. You must share it to enjoy it."
+    },
+    "author": {
+      "th": "เบอร์นาร์ด เมลท์เซอร์",
+      "en": "Bernard Meltzer"
+    },
+    "mood": "happy",
+    "category": "life"
+  },
+  {
+    "id": "q33",
+    "text": {
+      "th": "ความสุขที่ยิ่งใหญ่ที่สุดในชีวิต คือการได้รู้ว่าตัวเราเป็นที่รักของคนอื่น",
+      "en": "The greatest happiness of life is the conviction that we are loved."
+    },
+    "author": {
+      "th": "วิกตอร์ อูโก",
+      "en": "Victor Hugo"
+    },
+    "mood": "happy",
+    "category": "love"
+  },
+  {
+    "id": "q34",
+    "text": {
+      "th": "เมื่อคุณเลือกที่จะมองหาความสุข คุณก็จะพบมันซ่อนอยู่ในเรื่องเล็กๆ น้อยๆ ของทุกวัน",
+      "en": "If you look for happy things, you will find them all around you."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "happy",
+    "category": "growth"
+  },
+  {
+    "id": "q35",
+    "text": {
+      "th": "ทำใจให้สบาย หัวเราะกับความผิดพลาดบ้าง เพราะไม่มีใครในโลกนี้ที่สมบูรณ์แบบร้อยเปอร์เซ็นต์",
+      "en": "Humor is a healer. Laugh at your mistakes."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "happy",
+    "category": "life"
+  },
+  {
+    "id": "q36",
+    "text": {
+      "th": "ความรักและความอบอุ่นในครอบครัวคือพลังบวกที่หล่อเลี้ยงชีวิตได้ดีที่สุด",
+      "en": "Family is where life begins and love never ends."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "happy",
     "category": "love"
   },
   {
     "id": "q37",
-    "text": "วันไหนที่รู้สึกว่าเดินต่อไม่ไหว ก็แค่นั่งลงพักหายใจยาวๆ สักห้านาที โลกใบนี้รอคุณอยู่เสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
+    "text": {
+      "th": "ยินดีกับความสำเร็จเล็กๆ ของตัวเองในวันนี้ เพราะมันคือสะพานเชื่อมไปสู่ความสำเร็จที่ยิ่งใหญ่ขึ้น",
+      "en": "Celebrate your small wins. They build the road to greatness."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "happy",
+    "category": "growth"
   },
   {
     "id": "q38",
-    "text": "It's fine to take a break. You are a human, not a machine.",
-    "author": "SparkMind",
-    "lang": "en",
-    "mood": "tired",
+    "text": {
+      "th": "เมื่อหัวใจเต็มไปด้วยความกตัญญูและเห็นคุณค่าของชีวิต โลกนี้จะกลายเป็นสถานที่ที่น่าอยู่ขึ้นทันตา",
+      "en": "A grateful heart is a magnet for miracles."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "happy",
     "category": "life"
   },
   {
     "id": "q39",
-    "text": "รอยยิ้มของคุณมีค่ามากที่สุด จงส่งยิ้มให้ตัวเองในกระจกทุกเช้าเพื่อเริ่มวันดีๆ ไปด้วยกัน",
-    "author": "SparkMind",
-    "lang": "th",
+    "text": {
+      "th": "ความสุขไม่ได้วัดจากความร่ำรวย แต่อยู่ที่ความสงบในจิตใจและรอยยิ้มของคนที่เรารัก",
+      "en": "True wealth is not measured by money, but by the peace in your soul."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
     "mood": "happy",
     "category": "life"
   },
   {
     "id": "q40",
-    "text": "A smile is a curve that sets everything straight.",
-    "author": "Phyllis Diller",
-    "lang": "en",
+    "text": {
+      "th": "ความหวังและมุมมองเชิงบวกจะดึงดูดสิ่งดีๆ เข้ามาสู่ชีวิตคุณในท้ายที่สุด",
+      "en": "Keep a positive mindset, and positive things will happen."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "happy",
+    "category": "growth"
+  },
+  {
+    "id": "q41",
+    "text": {
+      "th": "จงมองปัญหาให้เหมือนพายุฝน ที่ตกกระหน่ำได้รุนแรงแต่จะหยุดตกและทิ้งสายรุ้งไว้ให้ดูเสมอ",
+      "en": "Every storm runs out of rain."
+    },
+    "author": {
+      "th": "มายา แองเจลู",
+      "en": "Maya Angelou"
+    },
     "mood": "happy",
     "category": "life"
   },
   {
-    "id": "q41",
-    "text": "คุณไม่จำเป็นต้องเป็นคนที่เก่งที่สุด แค่เป็นคนที่ดีขึ้นกว่าคุณคนเมื่อวานก็เพียงพอแล้ว",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "growth"
-  },
-  {
     "id": "q42",
-    "text": "Compare yourself to who you were yesterday, not to who someone else is today.",
-    "author": "Jordan Peterson",
-    "lang": "en",
-    "mood": "motivated",
+    "text": {
+      "th": "ความโชคดีที่สุดไม่ใช่การไม่เคยล้ม แต่คือการมีแรงและรอยยิ้มที่จะลุกขึ้นใหม่ทุกครั้ง",
+      "en": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+    },
+    "author": {
+      "th": "เนลสัน แมนเดลา",
+      "en": "Nelson Mandela"
+    },
+    "mood": "happy",
     "category": "growth"
   },
   {
     "id": "q43",
-    "text": "ความกดดันมีขึ้นเพื่อให้เราได้ปรับมุมมอง ไม่ใช่มีเพื่อให้เรายอมจำนนต่ออุปสรรค",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "work"
+    "text": {
+      "th": "ความเมตตาต่อผู้อื่นจะสะท้อนกลับมาเป็นความสงบและร่มเย็นในหัวใจของเราเอง",
+      "en": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."
+    },
+    "author": {
+      "th": "เล่าจื๊อ",
+      "en": "Lao Tzu"
+    },
+    "mood": "happy",
+    "category": "life"
   },
   {
     "id": "q44",
-    "text": "Do not let the behavior of others destroy your inner peace.",
-    "author": "Dalai Lama",
-    "lang": "en",
-    "mood": "calm",
-    "category": "work"
+    "text": {
+      "th": "เริ่มต้นวันด้วยความคิดบวก และปล่อยวางความกังวลของเมื่อวานไว้เบื้องหลัง",
+      "en": "Start your day with a positive thought and a clean slate."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "happy",
+    "category": "growth"
   },
   {
     "id": "q45",
-    "text": "ผลลัพธ์ของความอดทนในการเรียนรู้อาจจะขมขื่น แต่ผลของมันจะหอมหวานเสมอ",
-    "author": "Aristotle",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "study"
+    "text": {
+      "th": "ความสวยงามของการมีชีวิตอยู่ คือการได้ก้าวผ่านวันแย่ๆ เพื่อมารับวันดีๆ ที่กำลังรอคุณอยู่",
+      "en": "Without rain, there would be no rainbows."
+    },
+    "author": {
+      "th": "กิลเบิร์ต เชสเตอรตัน",
+      "en": "Gilbert Chesterton"
+    },
+    "mood": "happy",
+    "category": "life"
   },
   {
     "id": "q46",
-    "text": "The roots of education are bitter, but the fruit is sweet.",
-    "author": "Aristotle",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "study"
+    "text": {
+      "th": "อย่าลดขนาดของความฝัน แต่จงเพิ่มขนาดของความพยายามในการทำมันให้สำเร็จ",
+      "en": "Do not decrease your dreams, increase your effort."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "growth"
   },
   {
     "id": "q47",
-    "text": "ความรักที่ดีจะไม่บังคับให้ใครเปลี่ยนไป แต่จะทำให้ทั้งคู่เรียนรู้ที่จะเติบโตไปพร้อมๆ กัน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "love"
+    "text": {
+      "th": "ถ้าคุณไม่ยอมแพ้ โอกาสที่จะเอาชนะอุปสรรคก็ยังเป็น 100% เสมอ",
+      "en": "It always seems impossible until it's done."
+    },
+    "author": {
+      "th": "เนลสัน แมนเดลา",
+      "en": "Nelson Mandela"
+    },
+    "mood": "motivated",
+    "category": "study"
   },
   {
     "id": "q48",
-    "text": "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
-    "author": "Antoine de Saint-Exupéry",
-    "lang": "en",
-    "mood": "happy",
-    "category": "love"
+    "text": {
+      "th": "เป้าหมายที่ยิ่งใหญ่ในชีวิตไม่ได้เริ่มจากก้าวใหญ่ แต่เริ่มจากความสม่ำเสมอในทุกก้าวเล็กๆ",
+      "en": "Consistency is the key to unlocking your potential."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "growth"
   },
   {
     "id": "q49",
-    "text": "น้ำนิ่งจะใสและมองเห็นก้นสระ เช่นเดียวกับใจที่สงบจะมองเห็นทางออกในทุกปัญหา",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "growth"
+    "text": {
+      "th": "หนทางข้างหน้าอาจจะมีขวากหนาม แต่อดทนก้าวต่อไปเพื่อชื่นชมวิวยอดเขาที่สวยงาม",
+      "en": "The hardest climb leads to the best view."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "life"
   },
   {
     "id": "q50",
-    "text": "Peace comes from within. Do not seek it without.",
-    "author": "Buddha",
-    "lang": "en",
-    "mood": "calm",
-    "category": "growth"
+    "text": {
+      "th": "อย่ากลัวความล้มเหลว จงกลัวการที่ปล่อยให้ความล้มเหลวมาหยุดยั้งความพยายามของคุณ",
+      "en": "Don't let failure define you, let it refine you."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "work"
   },
   {
     "id": "q51",
-    "text": "ความสุขไม่ใช่จุดหมายปลายทางของการเดินทาง แต่เป็นวิธีการเดินทางของเราในทุกๆ วัน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "life"
+    "text": {
+      "th": "พลังใจที่แท้จริงไม่ได้มาจากความแข็งแรงทางกาย แต่เกิดจากจิตใจที่ไม่ยอมแพ้",
+      "en": "Strength does not come from physical capacity. It comes from an indomitable will."
+    },
+    "author": {
+      "th": "มหาตมะ คานธี",
+      "en": "Mahatma Gandhi"
+    },
+    "mood": "motivated",
+    "category": "growth"
   },
   {
     "id": "q52",
-    "text": "Happiness is a journey, not a destination.",
-    "author": "Souza",
-    "lang": "en",
-    "mood": "happy",
-    "category": "life"
+    "text": {
+      "th": "เวลาที่ดีที่สุดในการเริ่มทำตามความฝันคือตอนนี้ ไม่ใช่รอให้พร้อม เพราะความพร้อมจะไม่มีวันมาถึงถ้าไม่เริ่ม",
+      "en": "You don't have to be great to start, but you have to start to be great."
+    },
+    "author": {
+      "th": "ซิก ซิกลาร์",
+      "en": "Zig Ziglar"
+    },
+    "mood": "motivated",
+    "category": "work"
   },
   {
     "id": "q53",
-    "text": "ไม่แปลกเลยที่จะร้องไห้เมื่อเหนื่อยล้า หยาดน้ำตาเป็นแค่เครื่องเตือนใจว่าคุณตั้งใจพยายามอย่างมากแล้วต่างหาก",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
+    "text": {
+      "th": "จดจำเหตุผลที่ทำให้คุณเริ่มก้าวเดินในวันแรก เพื่อเป็นพลังใจขับเคลื่อนคุณในวันที่ยากลำบาก",
+      "en": "Remember why you started when you feel like quitting."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "study"
   },
   {
     "id": "q54",
-    "text": "Crying doesn't mean you are weak. Since birth, it has always been a sign that you are alive.",
-    "author": "Charlotte Bronte",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
+    "text": {
+      "th": "ความสามารถคือสิ่งที่คุณสร้างได้ ความมุ่งมั่นต่างหากที่จะบอกว่าคุณจะไปได้ไกลแค่ไหน",
+      "en": "Ability is what you're capable of doing. Motivation determines what you do."
+    },
+    "author": {
+      "th": "ลู โฮลท์ซ",
+      "en": "Lou Holtz"
+    },
+    "mood": "motivated",
+    "category": "growth"
   },
   {
     "id": "q55",
-    "text": "วันที่มีลมพายุพัดแรง ท้องฟ้าอาจดูมืดมน แต่จำไว้ว่าไม่มีพายุลูกไหนที่จะพัดอยู่ตลอดกาล",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
+    "text": {
+      "th": "งานที่ยากจะสอนให้คุณกลายเป็นคนที่เข้มแข็งและทักษะรอบตัวมากขึ้นในอนาคต",
+      "en": "Hard work beats talent when talent doesn't work hard."
+    },
+    "author": {
+      "th": "ทิม น็อตเก้",
+      "en": "Tim Notke"
+    },
+    "mood": "motivated",
+    "category": "work"
   },
   {
     "id": "q56",
-    "text": "Even the darkest night will end and the sun will rise.",
-    "author": "Victor Hugo",
-    "lang": "en",
-    "mood": "tired",
+    "text": {
+      "th": "จงเป็นเหมือนต้นไม้ใหญ่ที่เจอลมแรงแล้วยังหยั่งรากลึกอย่างมั่นคงและเติบโตสูงขึ้นเรื่อยๆ",
+      "en": "Be like a tree: bend in the wind but stay firmly rooted."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
     "category": "life"
   },
   {
     "id": "q57",
-    "text": "การอกหักอาจจะทำให้หัวใจเจ็บปวด แต่มันก็ช่วยคัดกรองคนที่ไม่ใช่ เพื่อให้เราพร้อมต้อนรับคนที่ดีพอในเวลาที่เหมาะสม",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "love"
+    "text": {
+      "th": "ทิศทางสำคัญกว่าความเร็วเสมอ ก้าวไปช้าๆ แต่ถูกทางดีกว่าวิ่งเร็วในทางที่ผิด",
+      "en": "Direction is more important than speed."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "growth"
   },
   {
     "id": "q58",
-    "text": "Sometimes a heartbreak is what wakes us up and helps us see we are worth so much more than we were settling for.",
-    "author": "Mandy Hale",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "love"
+    "text": {
+      "th": "ความมั่นใจไม่ใช่การคิดว่าตัวเราเหนือกว่าใคร แต่คือการยอมรับและไม่เปรียบเทียบชีวิตตัวเองกับใครต่างหาก",
+      "en": "Confidence is not 'they will like me'. Confidence is 'I will be fine if they don't'."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "growth"
   },
   {
     "id": "q59",
-    "text": "อย่าเสียใจกับสิ่งที่ผ่านไปแล้ว จงขอบคุณมันที่สอนให้เราเข้มแข็งขึ้นในวันนี้",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "life"
+    "text": {
+      "th": "จงจำไว้ว่าความผิดพลาดคือหลักฐานที่ยืนยันว่าคุณกำลังลงมือพยายามทำอะไรสักอย่าง",
+      "en": "Mistakes are proof that you are trying."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "motivated",
+    "category": "study"
   },
   {
     "id": "q60",
-    "text": "Don't cry because it's over, smile because it happened.",
-    "author": "Dr. Seuss",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "life"
+    "text": {
+      "th": "ความสุขของความสำเร็จจะคุ้มค่ากับทุกหยาดเหงื่อที่คุณเสียไปอย่างแน่นอน",
+      "en": "The price of success is hard work, dedication, and determination."
+    },
+    "author": {
+      "th": "วินซ์ ลอมบาร์ดี",
+      "en": "Vince Lombardi"
+    },
+    "mood": "motivated",
+    "category": "work"
   },
   {
     "id": "q61",
-    "text": "การมีรอยยิ้มไม่ได้หมายถึงชีวิตไม่มีปัญหา แต่หมายถึงเรามีทัศนคติที่เหนือกว่าปัญหาเหล่านั้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "ความสงบของใจคือน้ำเย็นที่ช่วยดับความร้อนรนของเรื่องราววุ่นวายรอบข้าง",
+      "en": "Inner peace is the ultimate luxury."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "calm",
     "category": "life"
   },
   {
     "id": "q62",
-    "text": "Smile, it’s free therapy.",
-    "author": "Douglas Horton",
-    "lang": "en",
-    "mood": "happy",
-    "category": "life"
+    "text": {
+      "th": "เมื่อคุณสงบลง คุณจะมองเห็นสิ่งต่าง ๆ ตามความเป็นจริง ไม่ใช่ตามอารมณ์ที่พัดพาไป",
+      "en": "Calmness is the cradle of power."
+    },
+    "author": {
+      "th": "โจไซอาห์ กิลเบิร์ต ฮอลแลนด์",
+      "en": "Josiah Gilbert Holland"
+    },
+    "mood": "calm",
+    "category": "growth"
   },
   {
     "id": "q63",
-    "text": "ความสุขเป็นสิ่งเดียวที่จะเพิ่มพูนขึ้นได้ เมื่อคุณแบ่งปันมันให้กับผู้อื่น",
-    "author": "Albert Schweitzer",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "ปล่อยให้เรื่องของอดีตเป็นไป และมองหาสันติภาพในวินาทีปัจจุบันเท่านั้น",
+      "en": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+    },
+    "author": {
+      "th": "พระพุทธเจ้า",
+      "en": "Buddha"
+    },
+    "mood": "calm",
     "category": "life"
   },
   {
     "id": "q64",
-    "text": "Happiness is like a kiss. You must share it to enjoy it.",
-    "author": "Bernard Meltzer",
-    "lang": "en",
-    "mood": "happy",
+    "text": {
+      "th": "สูดหายใจลึก ๆ ยืดเส้นสายเบา ๆ ยิ้มให้ตัวเอง แล้วมองดูว่าไม่มีอะไรยากเกินไปเมื่อใจเราสงบ",
+      "en": "Breathe. Let go. And remind yourself that this very moment is the only one you know you have."
+    },
+    "author": {
+      "th": "โอปราห์ วินฟรีย์",
+      "en": "Oprah Winfrey"
+    },
+    "mood": "calm",
     "category": "life"
   },
   {
     "id": "q65",
-    "text": "ความสุขที่ยิ่งใหญ่ที่สุดในชีวิต คือการได้รู้ว่าตัวเราเป็นที่รักของคนอื่น",
-    "author": "Victor Hugo",
-    "lang": "th",
-    "mood": "happy",
-    "category": "love"
+    "text": {
+      "th": "ความสมดุลระหว่างการพักผ่อนและการทำงานเป็นกุญแจสำคัญสู่สุขภาพจิตใจที่มั่นคง",
+      "en": "Never get so busy making a living that you forget to make a life."
+    },
+    "author": {
+      "th": "ดอลลี พาร์ตัน",
+      "en": "Dolly Parton"
+    },
+    "mood": "calm",
+    "category": "work"
   },
   {
     "id": "q66",
-    "text": "The greatest happiness of life is the conviction that we are loved.",
-    "author": "Victor Hugo",
-    "lang": "en",
-    "mood": "happy",
-    "category": "love"
+    "text": {
+      "th": "ความเงียบสงบไม่ได้น่ากลัว แต่มันคือพื้นที่ให้หัวใจเราได้รับการฟื้นฟูเยียวยาที่ดีที่สุด",
+      "en": "Quiet the mind and the soul will speak."
+    },
+    "author": {
+      "th": "มา จายา สติ ภค วดี",
+      "en": "Ma Jaya Sati Bhagavati"
+    },
+    "mood": "calm",
+    "category": "life"
   },
   {
     "id": "q67",
-    "text": "เมื่อคุณเลือกที่จะมองหาความสุข คุณก็จะพบมันซ่อนอยู่ในเรื่องเล็กๆ น้อยๆ ของทุกวัน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "การยอมรับความจริงในสิ่งที่แก้ไขไม่ได้ คือก้าวแรกของความสงบสุขที่ยั่งยืน",
+      "en": "Acceptance of what has happened is the first step to overcoming the consequences of any misfortune."
+    },
+    "author": {
+      "th": "วิลเลียม เจมส์",
+      "en": "William James"
+    },
+    "mood": "calm",
     "category": "growth"
   },
   {
     "id": "q68",
-    "text": "If you look for happy things, you will find them all around you.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
-    "category": "growth"
-  },
-  {
-    "id": "q69",
-    "text": "ทำใจให้สบาย หัวเราะกับความผิดพลาดบ้าง เพราะไม่มีใครในโลกนี้ที่สมบูรณ์แบบร้อยเปอร์เซ็นต์",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "ไม่จำเป็นต้องพิสูจน์ตัวเองให้ทุกคนเข้าใจตลอดเวลา ปลดปล่อยตัวเองจากความคาดหวังของคนอื่นบ้าง",
+      "en": "You do not need to explain yourself to everyone. Find peace in being true to yourself."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "calm",
     "category": "life"
   },
   {
+    "id": "q69",
+    "text": {
+      "th": "ความอบอุ่นและความสงบเริ่มขึ้นเมื่อเราเลือกที่จะปฏิเสธสิ่งที่ไม่จำเป็นต่อจิตใจ",
+      "en": "Learn to say 'no' to the good so you can say 'yes' to the best."
+    },
+    "author": {
+      "th": "จอห์น ซี. แมกซ์เวลล์",
+      "en": "John C. Maxwell"
+    },
+    "mood": "calm",
+    "category": "growth"
+  },
+  {
     "id": "q70",
-    "text": "Humor is a healer. Laugh at your mistakes.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
+    "text": {
+      "th": "เมื่อจิตใจสงบ อารมณ์โกรธและสับสนจะค่อยๆ ตกตะกอนและหายไปเองตามกาลเวลา",
+      "en": "The more tranquil a man becomes, the greater is his success, his influence, his power for good."
+    },
+    "author": {
+      "th": "เจมส์ อัลเลน",
+      "en": "James Allen"
+    },
+    "mood": "calm",
     "category": "life"
   },
   {
     "id": "q71",
-    "text": "ความรักและความอบอุ่นในครอบครัวคือพลังบวกที่หล่อเลี้ยงชีวิตได้ดีที่สุด",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "ความอ่อนโยนต่อคนรอบข้างและต่อตัวเราเองจะสร้างคลื่นพลังความสงบแผ่ออกไปไม่มีวันสิ้นสุด",
+      "en": "Kindness is a source of relief and calm."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "calm",
     "category": "love"
   },
   {
     "id": "q72",
-    "text": "Family is where life begins and love never ends.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
-    "category": "love"
+    "text": {
+      "th": "การมีจิตใจที่สงบนิ่งท่ามกลางวิกฤต เป็นจุดเริ่มต้นของการแก้ปัญหาที่ดีที่สุด",
+      "en": "A calm mind brings inner strength and self-confidence."
+    },
+    "author": {
+      "th": "องค์ดาไลลามะ",
+      "en": "Dalai Lama"
+    },
+    "mood": "calm",
+    "category": "study"
   },
   {
     "id": "q73",
-    "text": "ยินดีกับความสำเร็จเล็กๆ ของตัวเองในวันนี้ เพราะมันคือสะพานเชื่อมไปสู่ความสำเร็จที่ยิ่งใหญ่ขึ้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "growth"
+    "text": {
+      "th": "พักผ่อนในค่ำคืนนี้ด้วยจิตใจที่ปล่อยวาง พรุ่งนี้คือเช้าวันใหม่ที่มีท้องฟ้ากระจ่างรอคุณอยู่",
+      "en": "Sleep in peace, tomorrow will take care of itself."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "calm",
+    "category": "life"
   },
   {
     "id": "q74",
-    "text": "Celebrate your small wins. They build the road to greatness.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
-    "category": "growth"
+    "text": {
+      "th": "การเข้าใจในสิ่งที่ผู้อื่นกำลังเผชิญจะทำให้หัวใจเราพบแต่ความสงบเย็นและเมตตาต่อโลก",
+      "en": "Understanding is the key to peace."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "calm",
+    "category": "life"
   },
   {
     "id": "q75",
-    "text": "เมื่อหัวใจเต็มไปด้วยความกตัญญูและเห็นคุณค่าของชีวิต โลกนี้จะกลายเป็นสถานที่ที่น่าอยู่ขึ้นทันตา",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "life"
-  },
-  {
-    "id": "q76",
-    "text": "A grateful heart is a magnet for miracles.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
-    "category": "life"
-  },
-  {
-    "id": "q77",
-    "text": "ความสุขไม่ได้วัดจากความร่ำรวย แต่อยู่ที่ความสงบในจิตใจและรอยยิ้มของคนที่เรารัก",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "life"
-  },
-  {
-    "id": "q78",
-    "text": "True wealth is not measured by money, but by the peace in your soul.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
-    "category": "life"
-  },
-  {
-    "id": "q79",
-    "text": "ความหวังและมุมมองเชิงบวกจะดึงดูดสิ่งดีๆ เข้ามาสู่ชีวิตคุณในท้ายที่สุด",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "ปล่อยให้ชีวิตดำเนินไปอย่างเป็นธรรมชาติ เหมือนน้ำไหลที่ไม่รีบร้อนแต่ไปถึงทะเลใหญ่ได้เสมอ",
+      "en": "Adopt the pace of nature: her secret is patience."
+    },
+    "author": {
+      "th": "ราล์ฟ วัลโด เอเมอร์สัน",
+      "en": "Ralph Waldo Emerson"
+    },
+    "mood": "calm",
     "category": "growth"
   },
   {
+    "id": "q76",
+    "text": {
+      "th": "แรงบันดาลใจเป็นจุดประกายไฟเริ่มต้น แต่ความพากเพียรต่อเนื่องคือเชื้อไฟที่ทำให้โคมยังคงสว่าง",
+      "en": "Inspiration exists, but it has to find you working."
+    },
+    "author": {
+      "th": "ปาโบล ปิกัสโซ",
+      "en": "Pablo Picasso"
+    },
+    "mood": "inspired",
+    "category": "growth"
+  },
+  {
+    "id": "q77",
+    "text": {
+      "th": "เปิดใจต้อนรับมุมมองใหม่ๆ เพราะความสวยงามของชีวิตคือการได้เรียนรู้สิ่งที่เราไม่เคยรู้มาก่อน",
+      "en": "The mind is not a vessel to be filled, but a fire to be kindled."
+    },
+    "author": {
+      "th": "พลูทาร์ก",
+      "en": "Plutarch"
+    },
+    "mood": "inspired",
+    "category": "study"
+  },
+  {
+    "id": "q78",
+    "text": {
+      "th": "งานที่ดีคือการสร้างสรรค์สิ่งที่มีความหมายและมีคุณประโยชน์ต่อคนรุ่นหลัง",
+      "en": "To create is to live twice."
+    },
+    "author": {
+      "th": "อัลแบร์ กามูว์",
+      "en": "Albert Camus"
+    },
+    "mood": "inspired",
+    "category": "work"
+  },
+  {
+    "id": "q79",
+    "text": {
+      "th": "มองดูรอบตัวสิ ธรรมชาติกำลังส่งพลังและความคิดสร้างสรรค์ผ่านสายลมและต้นไม้รอบข้างคุณ",
+      "en": "Look deep into nature, and then you will understand everything better."
+    },
+    "author": {
+      "th": "อัลเบิร์ต ไอน์สไตน์",
+      "en": "Albert Einstein"
+    },
+    "mood": "inspired",
+    "category": "life"
+  },
+  {
     "id": "q80",
-    "text": "Keep a positive mindset, and positive things will happen.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
+    "text": {
+      "th": "ความฝันของคุณคือกองทัพที่มีพลังในการฝ่าฟันทุกอุปสรรคเพื่อสร้างสรรค์ผลงานที่เป็นเอกลักษณ์",
+      "en": "Go confidently in the direction of your dreams. Live the life you have imagined."
+    },
+    "author": {
+      "th": "เฮนรี เดวิด โธโร",
+      "en": "Henry David Thoreau"
+    },
+    "mood": "inspired",
     "category": "growth"
   },
   {
     "id": "q81",
-    "text": "จงมองปัญหาให้เหมือนพายุฝน ที่ตกกระหน่ำได้รุนแรงแต่จะหยุดตกและทิ้งสายรุ้งไว้ให้ดูเสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "life"
+    "text": {
+      "th": "ศิลปะและความบันดาลใจเกิดจากการที่เรากล้าที่จะทดลองและกล้าที่จะทำอะไรใหม่ ๆ",
+      "en": "Creativity is intelligence having fun."
+    },
+    "author": {
+      "th": "อัลเบิร์ต ไอน์สไตน์",
+      "en": "Albert Einstein"
+    },
+    "mood": "inspired",
+    "category": "study"
   },
   {
     "id": "q82",
-    "text": "Every storm runs out of rain.",
-    "author": "Maya Angelou",
-    "lang": "en",
-    "mood": "happy",
-    "category": "life"
-  },
-  {
-    "id": "q83",
-    "text": "ความโชคดีที่สุดไม่ใช่การไม่เคยล้ม แต่คือการมีแรงและรอยยิ้มที่จะลุกขึ้นใหม่ทุกครั้ง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "จินตนาการเป็นพลังวิเศษที่เป็นจุดเริ่มต้นของสิ่งประดิษฐ์และความคิดที่ก้าวหน้าในประวัติศาสตร์",
+      "en": "Imagination is everything. It is the preview of life's coming attractions."
+    },
+    "author": {
+      "th": "อัลเบิร์ต ไอน์สไตน์",
+      "en": "Albert Einstein"
+    },
+    "mood": "inspired",
     "category": "growth"
   },
   {
+    "id": "q83",
+    "text": {
+      "th": "การได้พบปะพูดคุยและเรียนรู้จากผู้คนหลากหลายมุมมองจะจุดประกายความคิดของเราให้กว้างไกลขึ้น",
+      "en": "No man is an island, entire of itself; every man is a piece of the continent."
+    },
+    "author": {
+      "th": "จอห์น ดอนน์",
+      "en": "John Donne"
+    },
+    "mood": "inspired",
+    "category": "life"
+  },
+  {
     "id": "q84",
-    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-    "author": "Nelson Mandela",
-    "lang": "en",
-    "mood": "happy",
+    "text": {
+      "th": "จงเขียนเป้าหมายของคุณลงบนกระดาษ แล้วมันจะเป็นจุดเริ่มต้นนำทางให้กลายเป็นจริง",
+      "en": "A goal is a dream with a deadline."
+    },
+    "author": {
+      "th": "นโปเลียน ฮิลล์",
+      "en": "Napoleon Hill"
+    },
+    "mood": "inspired",
     "category": "growth"
   },
   {
     "id": "q85",
-    "text": "ความเมตตาต่อผู้อื่นจะสะท้อนกลับมาเป็นความสงบและร่มเย็นในหัวใจของเราเอง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "life"
-  },
-  {
-    "id": "q86",
-    "text": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
-    "author": "Lao Tzu",
-    "lang": "en",
-    "mood": "happy",
-    "category": "life"
-  },
-  {
-    "id": "q87",
-    "text": "เริ่มต้นวันด้วยความคิดบวก และปล่อยวางความกังวลของเมื่อวานไว้เบื้องหลัง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
+    "text": {
+      "th": "ความสวยงามของความคิดสร้างสรรค์ คือไม่มีข้อจำกัดใดๆ ในการขีดเขียนจิตนาการของคุณ",
+      "en": "You can't use up creativity. The more you use, the more you have."
+    },
+    "author": {
+      "th": "มายา แองเจลู",
+      "en": "Maya Angelou"
+    },
+    "mood": "inspired",
     "category": "growth"
   },
   {
+    "id": "q86",
+    "text": {
+      "th": "การมองความแตกต่างด้วยความเข้าอกเข้าใจจะช่วยขยายขอบเขตการสร้างสรรค์ของหัวใจคุณ",
+      "en": "Empathy is a key factor in creative thinking."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "inspired",
+    "category": "love"
+  },
+  {
+    "id": "q87",
+    "text": {
+      "th": "หนังสือหนึ่งเล่มสามารถนำพาเราเดินทางท่องไปในห้วงความคิดและสร้างไอเดียใหม่ ๆ ได้อย่างมากมาย",
+      "en": "A room without books is like a body without a soul."
+    },
+    "author": {
+      "th": "มาร์กุส ตุลลิอุส กิแกโร",
+      "en": "Marcus Tullius Cicero"
+    },
+    "mood": "inspired",
+    "category": "study"
+  },
+  {
     "id": "q88",
-    "text": "Start your day with a positive thought and a clean slate.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "happy",
+    "text": {
+      "th": "จงกล้าหาญที่จะลองทำสิ่งที่แตกต่าง เพราะผลลัพธ์ของมันอาจนำพาจุดเปลี่ยนที่วิเศษที่สุด",
+      "en": "Do not follow where the path may lead. Go instead where there is no path and leave a trail."
+    },
+    "author": {
+      "th": "ราล์ฟ วัลโด เอเมอร์สัน",
+      "en": "Ralph Waldo Emerson"
+    },
+    "mood": "inspired",
     "category": "growth"
   },
   {
     "id": "q89",
-    "text": "ความสวยงามของการมีชีวิตอยู่ คือการได้ก้าวผ่านวันแย่ๆ เพื่อมารับวันดีๆ ที่กำลังรอคุณอยู่",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "happy",
-    "category": "life"
+    "text": {
+      "th": "ความสวยงามที่แท้จริงคือความมุ่งมั่นที่จะพัฒนาในทุกรายละเอียดการงานของคุณ",
+      "en": "Details make perfection, and perfection is not a detail."
+    },
+    "author": {
+      "th": "เลโอนาร์โด ดา วินชี",
+      "en": "Leonardo da Vinci"
+    },
+    "mood": "inspired",
+    "category": "work"
   },
   {
     "id": "q90",
-    "text": "Without rain, there would be no rainbows.",
-    "author": "Gilbert Chesterton",
-    "lang": "en",
-    "mood": "happy",
-    "category": "life"
+    "text": {
+      "th": "ใช้แรงผลักดันภายในจิตใจและเชื่อมั่นว่าความคิดของคุณมีค่าและสร้างความต่างให้กับโลกได้",
+      "en": "You are unique. Let your unique light shine."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "inspired",
+    "category": "growth"
   },
   {
     "id": "q91",
-    "text": "อย่าลดขนาดของความฝัน แต่จงเพิ่มขนาดของความพยายามในการทำมันให้สำเร็จ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "เมื่อร่างกายเหนื่อยล้า พักผ่อนและผ่อนคลายกล้ามเนื้อเสียบ้าง หัวใจมีขึ้นเพื่อรู้สึก ไม่ใช่มีไว้รับภาระตลอดเวลา",
+      "en": "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit."
+    },
+    "author": {
+      "th": "ราล์ฟ มาร์สตัน",
+      "en": "Ralph Marston"
+    },
+    "mood": "tired",
+    "category": "life"
   },
   {
     "id": "q92",
-    "text": "Do not decrease your dreams, increase your effort.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "ความเหนื่อยในวันนี้เป็นบันไดและเครื่องเตือนใจว่าคุณสู้และทุ่มเทอย่างหนักเพื่ออนาคตของคุณ",
+      "en": "It is not the load that breaks you down, it's the way you carry it."
+    },
+    "author": {
+      "th": "ลู โฮลท์ซ",
+      "en": "Lou Holtz"
+    },
+    "mood": "tired",
+    "category": "study"
   },
   {
     "id": "q93",
-    "text": "ถ้าคุณไม่ยอมแพ้ โอกาสที่จะเอาชนะอุปสรรคก็ยังเป็น 100% เสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "study"
+    "text": {
+      "th": "หลับตาลงและทิ้งภาระของที่ทำงานไว้ข้างนอกบ้าน วันนี้คุณทำหน้าที่ได้ดีที่สุดแล้ว พักผ่อนเถอะนะ",
+      "en": "Work is a part of life, not all of it. Rest well tonight."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
+    "category": "work"
   },
   {
     "id": "q94",
-    "text": "It always seems impossible until it's done.",
-    "author": "Nelson Mandela",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "study"
+    "text": {
+      "th": "การยอมรับว่าเราเหนื่อยและต้องการพัก เป็นสัญญาณของวุฒิภาวะและความเข้าใจในตัวเราเอง",
+      "en": "Knowing when to rest is a sign of wisdom."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
+    "category": "growth"
   },
   {
     "id": "q95",
-    "text": "เป้าหมายที่ยิ่งใหญ่ในชีวิตไม่ได้เริ่มจากก้าวใหญ่ แต่เริ่มจากความสม่ำเสมอในทุกก้าวเล็กๆ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "ไม่เป็นไรหรอกนะที่จะเว้นช่องว่างให้ชีวิตไม่มีอะไรทำบ้าง ชาร์จพลังหัวใจเพื่อกลับมาร่าเริงอีกครั้ง",
+      "en": "Do nothing for a while. Let your battery recharge."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
+    "category": "life"
   },
   {
     "id": "q96",
-    "text": "Consistency is the key to unlocking your potential.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "ถึงวิกฤตจะดูหนักหนา แต่อย่าเพิ่งตัดใจ เพราะความหวังและความรักรอบตัวจะเยียวยาคุณเอง",
+      "en": "When you are tired, rest your heart. You are not alone."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
+    "category": "life"
   },
   {
     "id": "q97",
-    "text": "หนทางข้างหน้าอาจจะมีขวากหนาม แต่อดทนก้าวต่อไปเพื่อชื่นชมวิวยอดเขาที่สวยงาม",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
+    "text": {
+      "th": "วันแย่ ๆ มีอยู่เพื่อทำให้วันดี ๆ ของเราดูน่าประทับใจและมีความหมายมากยิ่งขึ้น",
+      "en": "Bad days exist so that good days can feel even more precious."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
     "category": "life"
   },
   {
     "id": "q98",
-    "text": "The hardest climb leads to the best view.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
+    "text": {
+      "th": "พักผ่อนกายใจ ดื่มน้ำอุ่นสักแก้ว พรุ่งนี้จะมีโอกาสและเส้นทางใหม่รอต้อนรับคุณเสมอ",
+      "en": "Tomorrow is a new day with fresh beginnings."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
     "category": "life"
   },
   {
     "id": "q99",
-    "text": "อย่ากลัวความล้มเหลว จงกลัวการที่ปล่อยให้ความล้มเหลวมาหยุดยั้งความพยายามของคุณ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "work"
-  },
-  {
-    "id": "q100",
-    "text": "Don't let failure define you, let it refine you.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "work"
-  },
-  {
-    "id": "q101",
-    "text": "พลังใจที่แท้จริงไม่ได้มาจากความแข็งแรงทางกาย แต่เกิดจากจิตใจที่ไม่ยอมแพ้",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
+    "text": {
+      "th": "ความสำเร็จไม่ต้องมาถึงทันทีก็ได้ ก้าวไปเรื่อยๆ ตามจังหวะชีวิตของตัวเราเองโดยไม่ต้องเทียบกับใคร",
+      "en": "Go at your own pace. Life is a marathon, not a sprint."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
     "category": "growth"
   },
   {
+    "id": "q100",
+    "text": {
+      "th": "หัวใจคุณแข็งแกร่งกว่าที่คุณคิด ความเจ็บปวดและเหนื่อยล้าในวันนี้จะหล่อหลอมให้คุณกลายเป็นคนที่เข้มแข็งขึ้น",
+      "en": "You are stronger than you think. This too shall pass."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
+    "category": "growth"
+  },
+  {
+    "id": "q101",
+    "text": {
+      "th": "เมื่อคุณอกหักและรู้สึกเศร้าโศก ปล่อยให้น้ำตาไหลออกมาระบายความเสียใจ เพราะมันคือยาล้างใจให้สะอาดขึ้น",
+      "en": "Tears are words the heart can't express."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "heartbroken",
+    "category": "love"
+  },
+  {
     "id": "q102",
-    "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
-    "author": "Mahatma Gandhi",
-    "lang": "en",
-    "mood": "motivated",
+    "text": {
+      "th": "การสูญเสียความรักไปไม่ใช่จุดสิ้นสุดของชีวิต แต่คือประตูปูทางไปสู่การรักตัวเองในระดับที่ลึกซึ้งขึ้น",
+      "en": "A broken heart is a placeholder for a bigger capacity to love yourself."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "heartbroken",
     "category": "growth"
   },
   {
     "id": "q103",
-    "text": "เวลาที่ดีที่สุดในการเริ่มทำตามความฝันคือตอนนี้ ไม่ใช่รอให้พร้อม เพราะความพร้อมจะไม่มีวันมาถึงถ้าไม่เริ่ม",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "work"
+    "text": {
+      "th": "เรื่องที่ล้มเหลวและหัวใจที่ปวดร้าว จะเป็นบทเรียนชั้นยอดช่วยชี้ทางให้เจอคนที่มีค่าควรคู่กันในอนาคต",
+      "en": "Hearts live by being wounded."
+    },
+    "author": {
+      "th": "ออสการ์ ไวลด์",
+      "en": "Oscar Wilde"
+    },
+    "mood": "heartbroken",
+    "category": "love"
   },
   {
     "id": "q104",
-    "text": "You don't have to be great to start, but you have to start to be great.",
-    "author": "Zig Ziglar",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "work"
+    "text": {
+      "th": "อย่าให้ใครที่ไม่เห็นคุณค่าของคุณ มาเป็นผู้กำหนดชะตาชีวิตและความรู้สึกสุขทุกข์ของคุณอีกต่อไป",
+      "en": "Never love anyone who treats you like you're ordinary."
+    },
+    "author": {
+      "th": "ออสการ์ ไวลด์",
+      "en": "Oscar Wilde"
+    },
+    "mood": "heartbroken",
+    "category": "love"
   },
   {
     "id": "q105",
-    "text": "จดจำเหตุผลที่ทำให้คุณเริ่มก้าวเดินในวันแรก เพื่อเป็นพลังใจขับเคลื่อนคุณในวันที่ยากลำบาก",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "study"
+    "text": {
+      "th": "จำไว้ว่าหลังคืนที่มืดมิดที่สุด ดวงอาทิตย์ที่สดใสและอบอุ่นจะขึ้นทางขอบฟ้าทิศเดิมเสมอ",
+      "en": "The sun is new each day."
+    },
+    "author": {
+      "th": "เฮราคลิตุส",
+      "en": "Heraclitus"
+    },
+    "mood": "heartbroken",
+    "category": "life"
   },
   {
     "id": "q106",
-    "text": "Remember why you started when you feel like quitting.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "study"
+    "text": {
+      "th": "การสูญเสียในวันนี้ทำให้เราได้รู้ว่าความรักความอบอุ่นเป็นสิ่งที่มีคุณค่าเพียงใดในช่วงเวลาถัดไป",
+      "en": "Better to have loved and lost than never to have loved at all."
+    },
+    "author": {
+      "th": "อัลเฟรด ลอร์ด เทนนิสัน",
+      "en": "Alfred Lord Tennyson"
+    },
+    "mood": "heartbroken",
+    "category": "love"
   },
   {
     "id": "q107",
-    "text": "ความสามารถคือสิ่งที่คุณสร้างได้ ความมุ่งมั่นต่างหากที่จะบอกว่าคุณจะไปได้ไกลแค่ไหน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
+    "text": {
+      "th": "ทิ้งเรื่องราวที่ทรมานใจและโกรธแค้นไปเสีย ยิ่งปล่อยเร็ว หัวใจคุณก็จะกลับมาเบาสบายเร็วขึ้นเท่านั้น",
+      "en": "Forgiveness is the smell that the violet sheds on the heel that has crushed it."
+    },
+    "author": {
+      "th": "มาร์ก ทเวน",
+      "en": "Mark Twain"
+    },
+    "mood": "heartbroken",
     "category": "growth"
   },
   {
     "id": "q108",
-    "text": "Ability is what you're capable of doing. Motivation determines what you do.",
-    "author": "Lou Holtz",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "อกหักครั้งนี้มีขึ้นเพื่อให้คุณได้เรียนรู้วิธีการโอบกอดและเยียวยาจิตใจที่บอบช้ำด้วยตัวของคุณเองอย่างสง่างาม",
+      "en": "To heal a wound, you need to stop touching it."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "heartbroken",
+    "category": "love"
   },
   {
     "id": "q109",
-    "text": "งานที่ยากจะสอนให้คุณกลายเป็นคนที่เข้มแข็งและทักษะรอบตัวมากขึ้นในอนาคต",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "work"
+    "text": {
+      "th": "ชีวิตที่เจ็บปวดอาจจะดูไม่เป็นธรรม แต่จำไว้ว่ามันคือดินปุ๋ยชั้นดีที่หล่อเลี้ยงดอกไม้ในใจคุณให้ผลิดอกอย่างงดงาม",
+      "en": "Out of difficulties grow miracles."
+    },
+    "author": {
+      "th": "ฌ็อง เดอ ลา บรูว์แยร์",
+      "en": "Jean de La Bruyere"
+    },
+    "mood": "heartbroken",
+    "category": "growth"
   },
   {
     "id": "q110",
-    "text": "Hard work beats talent when talent doesn't work hard.",
-    "author": "Tim Notke",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "work"
+    "text": {
+      "th": "รักตัวเองในวันนี้ให้มากกว่าเดิม เพราะคุณคือคนคนเดียวที่จะอยู่และสนับสนุนตัวเองไปตลอดเส้นทางชีวิตนี้",
+      "en": "You yourself, as much as anybody in the entire universe, deserve your love and affection."
+    },
+    "author": {
+      "th": "พระพุทธเจ้า",
+      "en": "Buddha"
+    },
+    "mood": "heartbroken",
+    "category": "growth"
   },
   {
     "id": "q111",
-    "text": "จงเป็นเหมือนต้นไม้ใหญ่ที่เจอลมแรงแล้วยังหยั่งรากลึกอย่างมั่นคงและเติบโตสูงขึ้นเรื่อยๆ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
+    "text": {
+      "th": "ความเจ็บปวดในวันนี้จะค่อย ๆ อ่อนแรงลงเมื่อเวลาผ่านไป และรอยยิ้มจะกลับมาประดับหน้าคุณอีกครั้งแน่นอน",
+      "en": "Time heals all wounds."
+    },
+    "author": {
+      "th": "สุภาษิต",
+      "en": "Proverb"
+    },
+    "mood": "heartbroken",
     "category": "life"
   },
   {
     "id": "q112",
-    "text": "Be like a tree: bend in the wind but stay firmly rooted.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
+    "text": {
+      "th": "การจากลาเป็นส่วนหนึ่งของธรรมชาติ เพื่อล้างพื้นที่ให้สิ่งใหม่ที่ดีและสอดคล้องกับคุณได้ก้าวเข้ามา",
+      "en": "Every goodbye makes the next hello closer."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "heartbroken",
     "category": "life"
   },
   {
     "id": "q113",
-    "text": "ทิศทางสำคัญกว่าความเร็วเสมอ ก้าวไปช้าๆ แต่ถูกทางดีกว่าวิ่งเร็วในทางที่ผิด",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "ถึงหัวใจจะร้าวรานจากคนใจร้ายในวันนี้ แต่จำไว้ว่าครอบครัวและกัลยาณมิตรของคุณยังโอบกอดคุณด้วยความรักเสมอ",
+      "en": "Love is the only force capable of transforming an enemy into a friend."
+    },
+    "author": {
+      "th": "มาร์ติน ลูเธอร์ คิง จูเนียร์",
+      "en": "Martin Luther King Jr."
+    },
+    "mood": "heartbroken",
+    "category": "love"
   },
   {
     "id": "q114",
-    "text": "Direction is more important than speed.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "หยุดจ้องมองประตูบานเดิมที่ปิดตายลงไปเถอะ หันมามองบานหน้าต่างและโอกาสใหม่ ๆ รอบข้างคุณดีกว่า",
+      "en": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."
+    },
+    "author": {
+      "th": "เฮเลน เคลเลอร์",
+      "en": "Helen Keller"
+    },
+    "mood": "heartbroken",
+    "category": "life"
   },
   {
     "id": "q115",
-    "text": "ความมั่นใจไม่ใช่การคิดว่าตัวเราเหนือกว่าใคร แต่คือการยอมรับและไม่เปรียบเทียบชีวิตตัวเองกับใครต่างหาก",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
+    "text": {
+      "th": "การอกหักและเจ็บปวดในวันนี้ คือวัคซีนชั้นดีที่ทำให้หัวใจของคุณมีภูมิคุ้มกันและฉลาดในการรักใครในวันหน้า",
+      "en": "What doesn't kill you makes you stronger."
+    },
+    "author": {
+      "th": "ฟรีดริช นีเชอ",
+      "en": "Friedrich Nietzsche"
+    },
+    "mood": "heartbroken",
     "category": "growth"
   },
   {
     "id": "q116",
-    "text": "Confidence is not 'they will like me'. Confidence is 'I will be fine if they don't'.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "growth"
+    "text": {
+      "th": "ความล้มเหลวในการสอบหรือการเรียนรู้ไม่ได้ชี้วัดคุณค่าในตัวคุณ มันเป็นเพียงส่วนหนึ่งที่คุณต้องปรับปรุงในโอกาสหน้า",
+      "en": "Your grades do not define your intelligence or your worth."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
+    "category": "study"
   },
   {
     "id": "q117",
-    "text": "จงจำไว้ว่าความผิดพลาดคือหลักฐานที่ยืนยันว่าคุณกำลังลงมือพยายามทำอะไรสักอย่าง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
+    "text": {
+      "th": "อย่ากลัวที่จะทำคะแนนได้น้อยในการทำสิ่งใหม่ ๆ เพราะไม่มีใครที่ทำถูกต้องมาตั้งแต่การก้าวเดินวันแรก",
+      "en": "The expert in anything was once a beginner."
+    },
+    "author": {
+      "th": "เฮเลน เฮส์",
+      "en": "Helen Hayes"
+    },
+    "mood": "tired",
     "category": "study"
   },
   {
     "id": "q118",
-    "text": "Mistakes are proof that you are trying.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "study"
+    "text": {
+      "th": "พักผ่อนคืนนี้ด้วยใจที่สงบ รอยแผลและความเจ็บใจในวันนี้จะได้รับการชะล้างด้วยนิทราอันเงียบสงบ",
+      "en": "A good laugh and a long sleep are the best cures in the doctor's book."
+    },
+    "author": {
+      "th": "สุภาษิตไอริช",
+      "en": "Irish Proverb"
+    },
+    "mood": "tired",
+    "category": "life"
   },
   {
     "id": "q119",
-    "text": "ความสุขของความสำเร็จจะคุ้มค่ากับทุกหยาดเหงื่อที่คุณเสียไปอย่างแน่นอน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "motivated",
-    "category": "work"
+    "text": {
+      "th": "เมื่อคุณก้าวพลาดและล้มลง นั่นคือสัญญาณที่เตือนให้คุณได้พักเพื่อหายใจ ไม่ใช่จุดสิ้นสุดความพยายาม",
+      "en": "Falling down is an accident; staying down is a choice."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
+    "mood": "tired",
+    "category": "growth"
   },
   {
     "id": "q120",
-    "text": "The price of success is hard work, dedication, and determination.",
-    "author": "Vince Lombardi",
-    "lang": "en",
-    "mood": "motivated",
-    "category": "work"
-  },
-  {
-    "id": "q121",
-    "text": "ความสงบของใจคือน้ำเย็นที่ช่วยดับความร้อนรนของเรื่องราววุ่นวายรอบข้าง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q122",
-    "text": "Inner peace is the ultimate luxury.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q123",
-    "text": "เมื่อคุณสงบลง คุณจะมองเห็นสิ่งต่าง ๆ ตามความเป็นจริง ไม่ใช่ตามอารมณ์ที่พัดพาไป",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q124",
-    "text": "Calmness is the cradle of power.",
-    "author": "Josiah Gilbert Holland",
-    "lang": "en",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q125",
-    "text": "ปล่อยให้เรื่องของอดีตเป็นไป และมองหาสันติภาพในวินาทีปัจจุบันเท่านั้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q126",
-    "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-    "author": "Buddha",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q127",
-    "text": "สูดหายใจลึก ๆ ยืดเส้นสายเบา ๆ ยิ้มให้ตัวเอง แล้วมองดูว่าไม่มีอะไรยากเกินไปเมื่อใจเราสงบ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q128",
-    "text": "Breathe. Let go. And remind yourself that this very moment is the only one you know you have.",
-    "author": "Oprah Winfrey",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q129",
-    "text": "ความสมดุลระหว่างการพักผ่อนและการทำงานเป็นกุญแจสำคัญสู่สุขภาพจิตใจที่มั่นคง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "work"
-  },
-  {
-    "id": "q130",
-    "text": "Never get so busy making a living that you forget to make a life.",
-    "author": "Dolly Parton",
-    "lang": "en",
-    "mood": "calm",
-    "category": "work"
-  },
-  {
-    "id": "q131",
-    "text": "ความเงียบสงบไม่ได้น่ากลัว แต่มันคือพื้นที่ให้หัวใจเราได้รับการฟื้นฟูเยียวยาที่ดีที่สุด",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q132",
-    "text": "Quiet the mind and the soul will speak.",
-    "author": "Ma Jaya Sati Bhagavati",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q133",
-    "text": "การยอมรับความจริงในสิ่งที่แก้ไขไม่ได้ คือก้าวแรกของความสงบสุขที่ยั่งยืน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q134",
-    "text": "Acceptance of what has happened is the first step to overcoming the consequences of any misfortune.",
-    "author": "William James",
-    "lang": "en",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q135",
-    "text": "ไม่จำเป็นต้องพิสูจน์ตัวเองให้ทุกคนเข้าใจตลอดเวลา ปลดปล่อยตัวเองจากความคาดหวังของคนอื่นบ้าง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q136",
-    "text": "You do not need to explain yourself to everyone. Find peace in being true to yourself.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q137",
-    "text": "ความอบอุ่นและความสงบเริ่มขึ้นเมื่อเราเลือกที่จะปฏิเสธสิ่งที่ไม่จำเป็นต่อจิตใจ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q138",
-    "text": "Learn to say 'no' to the good so you can say 'yes' to the best.",
-    "author": "John C. Maxwell",
-    "lang": "en",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q139",
-    "text": "เมื่อจิตใจสงบ อารมณ์โกรธและสับสนจะค่อยๆ ตกตะกอนและหายไปเองตามกาลเวลา",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q140",
-    "text": "The more tranquil a man becomes, the greater is his success, his influence, his power for good.",
-    "author": "James Allen",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q141",
-    "text": "ความอ่อนโยนต่อคนรอบข้างและต่อตัวเราเองจะสร้างคลื่นพลังความสงบแผ่ออกไปไม่มีวันสิ้นสุด",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "love"
-  },
-  {
-    "id": "q142",
-    "text": "Kindness is a source of relief and calm.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "calm",
-    "category": "love"
-  },
-  {
-    "id": "q143",
-    "text": "การมีจิตใจที่สงบนิ่งท่ามกลางวิกฤต เป็นจุดเริ่มต้นของการแก้ปัญหาที่ดีที่สุด",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "study"
-  },
-  {
-    "id": "q144",
-    "text": "A calm mind brings inner strength and self-confidence.",
-    "author": "Dalai Lama",
-    "lang": "en",
-    "mood": "calm",
-    "category": "study"
-  },
-  {
-    "id": "q145",
-    "text": "พักผ่อนในค่ำคืนนี้ด้วยจิตใจที่ปล่อยวาง พรุ่งนี้คือเช้าวันใหม่ที่มีท้องฟ้ากระจ่างรอคุณอยู่",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q146",
-    "text": "Sleep in peace, tomorrow will take care of itself.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q147",
-    "text": "การเข้าใจในสิ่งที่ผู้อื่นกำลังเผชิญจะทำให้หัวใจเราพบแต่ความสงบเย็นและเมตตาต่อโลก",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q148",
-    "text": "Understanding is the key to peace.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "calm",
-    "category": "life"
-  },
-  {
-    "id": "q149",
-    "text": "ปล่อยให้ชีวิตดำเนินไปอย่างเป็นธรรมชาติ เหมือนน้ำไหลที่ไม่รีบร้อนแต่ไปถึงทะเลใหญ่ได้เสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q150",
-    "text": "Adopt the pace of nature: her secret is patience.",
-    "author": "Ralph Waldo Emerson",
-    "lang": "en",
-    "mood": "calm",
-    "category": "growth"
-  },
-  {
-    "id": "q151",
-    "text": "แรงบันดาลใจเป็นจุดประกายไฟเริ่มต้น แต่ความพากเพียรต่อเนื่องคือเชื้อไฟที่ทำให้โคมยังคงสว่าง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q152",
-    "text": "Inspiration exists, but it has to find you working.",
-    "author": "Pablo Picasso",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q153",
-    "text": "เปิดใจต้อนรับมุมมองใหม่ๆ เพราะความสวยงามของชีวิตคือการได้เรียนรู้สิ่งที่เราไม่เคยรู้มาก่อน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q154",
-    "text": "The mind is not a vessel to be filled, but a fire to be kindled.",
-    "author": "Plutarch",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q155",
-    "text": "งานที่ดีคือการสร้างสรรค์สิ่งที่มีความหมายและมีคุณประโยชน์ต่อคนรุ่นหลัง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "work"
-  },
-  {
-    "id": "q156",
-    "text": "To create is to live twice.",
-    "author": "Albert Camus",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "work"
-  },
-  {
-    "id": "q157",
-    "text": "มองดูรอบตัวสิ ธรรมชาติกำลังส่งพลังและความคิดสร้างสรรค์ผ่านสายลมและต้นไม้รอบข้างคุณ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "life"
-  },
-  {
-    "id": "q158",
-    "text": "Look deep into nature, and then you will understand everything better.",
-    "author": "Albert Einstein",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "life"
-  },
-  {
-    "id": "q159",
-    "text": "ความฝันของคุณคือกองทัพที่มีพลังในการฝ่าฟันทุกอุปสรรคเพื่อสร้างสรรค์ผลงานที่เป็นเอกลักษณ์",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q160",
-    "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-    "author": "Henry David Thoreau",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q161",
-    "text": "ศิลปะและความบันดาลใจเกิดจากการที่เรากล้าที่จะทดลองและกล้าที่จะทำอะไรใหม่ ๆ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q162",
-    "text": "Creativity is intelligence having fun.",
-    "author": "Albert Einstein",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q163",
-    "text": "จินตนาการเป็นพลังวิเศษที่เป็นจุดเริ่มต้นของสิ่งประดิษฐ์และความคิดที่ก้าวหน้าในประวัติศาสตร์",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q164",
-    "text": "Imagination is everything. It is the preview of life's coming attractions.",
-    "author": "Albert Einstein",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q165",
-    "text": "การได้พบปะพูดคุยและเรียนรู้จากผู้คนหลากหลายมุมมองจะจุดประกายความคิดของเราให้กว้างไกลขึ้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "life"
-  },
-  {
-    "id": "q166",
-    "text": "No man is an island, entire of itself; every man is a piece of the continent.",
-    "author": "John Donne",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "life"
-  },
-  {
-    "id": "q167",
-    "text": "จงเขียนเป้าหมายของคุณลงบนกระดาษ แล้วมันจะเป็นจุดเริ่มต้นนำทางให้กลายเป็นจริง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q168",
-    "text": "A goal is a dream with a deadline.",
-    "author": "Napoleon Hill",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q169",
-    "text": "ความสวยงามของความคิดสร้างสรรค์ คือไม่มีข้อจำกัดใดๆ ในการขีดเขียนจิตนาการของคุณ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q170",
-    "text": "You can't use up creativity. The more you use, the more you have.",
-    "author": "Maya Angelou",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q171",
-    "text": "การมองความแตกต่างด้วยความเข้าอกเข้าใจจะช่วยขยายขอบเขตการสร้างสรรค์ของหัวใจคุณ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "love"
-  },
-  {
-    "id": "q172",
-    "text": "Empathy is a key factor in creative thinking.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "love"
-  },
-  {
-    "id": "q173",
-    "text": "หนังสือหนึ่งเล่มสามารถนำพาเราเดินทางท่องไปในห้วงความคิดและสร้างไอเดียใหม่ ๆ ได้อย่างมากมาย",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q174",
-    "text": "A room without books is like a body without a soul.",
-    "author": "Marcus Tullius Cicero",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "study"
-  },
-  {
-    "id": "q175",
-    "text": "จงกล้าหาญที่จะลองทำสิ่งที่แตกต่าง เพราะผลลัพธ์ของมันอาจนำพาจุดเปลี่ยนที่วิเศษที่สุด",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q176",
-    "text": "Do not follow where the path may lead. Go instead where there is no path and leave a trail.",
-    "author": "Ralph Waldo Emerson",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q177",
-    "text": "ความสวยงามที่แท้จริงคือความมุ่งมั่นที่จะพัฒนาในทุกรายละเอียดการงานของคุณ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "work"
-  },
-  {
-    "id": "q178",
-    "text": "Details make perfection, and perfection is not a detail.",
-    "author": "Leonardo da Vinci",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "work"
-  },
-  {
-    "id": "q179",
-    "text": "ใช้แรงผลักดันภายในจิตใจและเชื่อมั่นว่าความคิดของคุณมีค่าและสร้างความต่างให้กับโลกได้",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q180",
-    "text": "You are unique. Let your unique light shine.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "inspired",
-    "category": "growth"
-  },
-  {
-    "id": "q181",
-    "text": "เมื่อร่างกายเหนื่อยล้า พักผ่อนและผ่อนคลายกล้ามเนื้อเสียบ้าง หัวใจมีขึ้นเพื่อรู้สึก ไม่ใช่มีไว้รับภาระตลอดเวลา",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q182",
-    "text": "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit.",
-    "author": "Ralph Marston",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q183",
-    "text": "ความเหนื่อยในวันนี้เป็นบันไดและเครื่องเตือนใจว่าคุณสู้และทุ่มเทอย่างหนักเพื่ออนาคตของคุณ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "study"
-  },
-  {
-    "id": "q184",
-    "text": "It is not the load that breaks you down, it's the way you carry it.",
-    "author": "Lou Holtz",
-    "lang": "en",
-    "mood": "tired",
-    "category": "study"
-  },
-  {
-    "id": "q185",
-    "text": "หลับตาลงและทิ้งภาระของที่ทำงานไว้ข้างนอกบ้าน วันนี้คุณทำหน้าที่ได้ดีที่สุดแล้ว พักผ่อนเถอะนะ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "work"
-  },
-  {
-    "id": "q186",
-    "text": "Work is a part of life, not all of it. Rest well tonight.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "work"
-  },
-  {
-    "id": "q187",
-    "text": "การยอมรับว่าเราเหนื่อยและต้องการพัก เป็นสัญญาณของวุฒิภาวะและความเข้าใจในตัวเราเอง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q188",
-    "text": "Knowing when to rest is a sign of wisdom.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q189",
-    "text": "ไม่เป็นไรหรอกนะที่จะเว้นช่องว่างให้ชีวิตไม่มีอะไรทำบ้าง ชาร์จพลังหัวใจเพื่อกลับมาร่าเริงอีกครั้ง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q190",
-    "text": "Do nothing for a while. Let your battery recharge.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q191",
-    "text": "ถึงวิกฤตจะดูหนักหนา แต่อย่าเพิ่งตัดใจ เพราะความหวังและความรักรอบตัวจะเยียวยาคุณเอง",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q192",
-    "text": "When you are tired, rest your heart. You are not alone.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q193",
-    "text": "วันแย่ ๆ มีอยู่เพื่อทำให้วันดี ๆ ของเราดูน่าประทับใจและมีความหมายมากยิ่งขึ้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q194",
-    "text": "Bad days exist so that good days can feel even more precious.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q195",
-    "text": "พักผ่อนกายใจ ดื่มน้ำอุ่นสักแก้ว พรุ่งนี้จะมีโอกาสและเส้นทางใหม่รอต้อนรับคุณเสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q196",
-    "text": "Tomorrow is a new day with fresh beginnings.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q197",
-    "text": "ความสำเร็จไม่ต้องมาถึงทันทีก็ได้ ก้าวไปเรื่อยๆ ตามจังหวะชีวิตของตัวเราเองโดยไม่ต้องเทียบกับใคร",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q198",
-    "text": "Go at your own pace. Life is a marathon, not a sprint.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q199",
-    "text": "หัวใจคุณแข็งแกร่งกว่าที่คุณคิด ความเจ็บปวดและเหนื่อยล้าในวันนี้จะหล่อหลอมให้คุณกลายเป็นคนที่เข้มแข็งขึ้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q200",
-    "text": "You are stronger than you think. This too shall pass.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q201",
-    "text": "เมื่อคุณอกหักและรู้สึกเศร้าโศก ปล่อยให้น้ำตาไหลออกมาระบายความเสียใจ เพราะมันคือยาล้างใจให้สะอาดขึ้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q202",
-    "text": "Tears are words the heart can't express.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q203",
-    "text": "การสูญเสียความรักไปไม่ใช่จุดสิ้นสุดของชีวิต แต่คือประตูปูทางไปสู่การรักตัวเองในระดับที่ลึกซึ้งขึ้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q204",
-    "text": "A broken heart is a placeholder for a bigger capacity to love yourself.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q205",
-    "text": "เรื่องที่ล้มเหลวและหัวใจที่ปวดร้าว จะเป็นบทเรียนชั้นยอดช่วยชี้ทางให้เจอคนที่มีค่าควรคู่กันในอนาคต",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q206",
-    "text": "Hearts live by being wounded.",
-    "author": "Oscar Wilde",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q207",
-    "text": "อย่าให้ใครที่ไม่เห็นคุณค่าของคุณ มาเป็นผู้กำหนดชะตาชีวิตและความรู้สึกสุขทุกข์ของคุณอีกต่อไป",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q208",
-    "text": "Never love anyone who treats you like you're ordinary.",
-    "author": "Oscar Wilde",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q209",
-    "text": "จำไว้ว่าหลังคืนที่มืดมิดที่สุด ดวงอาทิตย์ที่สดใสและอบอุ่นจะขึ้นทางขอบฟ้าทิศเดิมเสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q210",
-    "text": "The sun is new each day.",
-    "author": "Heraclitus",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q211",
-    "text": "การสูญเสียในวันนี้ทำให้เราได้รู้ว่าความรักความอบอุ่นเป็นสิ่งที่มีคุณค่าเพียงใดในช่วงเวลาถัดไป",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q212",
-    "text": "Better to have loved and lost than never to have loved at all.",
-    "author": "Alfred Lord Tennyson",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q213",
-    "text": "ทิ้งเรื่องราวที่ทรมานใจและโกรธแค้นไปเสีย ยิ่งปล่อยเร็ว หัวใจคุณก็จะกลับมาเบาสบายเร็วขึ้นเท่านั้น",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q214",
-    "text": "Forgiveness is the smell that the violet sheds on the heel that has crushed it.",
-    "author": "Mark Twain",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q215",
-    "text": "อกหักครั้งนี้มีขึ้นเพื่อให้คุณได้เรียนรู้วิธีการโอบกอดและเยียวยาจิตใจที่บอบช้ำด้วยตัวของคุณเองอย่างสง่างาม",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q216",
-    "text": "To heal a wound, you need to stop touching it.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q217",
-    "text": "ชีวิตที่เจ็บปวดอาจจะดูไม่เป็นธรรม แต่จำไว้ว่ามันคือดินปุ๋ยชั้นดีที่หล่อเลี้ยงดอกไม้ในใจคุณให้ผลิดอกอย่างงดงาม",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q218",
-    "text": "Out of difficulties grow miracles.",
-    "author": "Jean de La Bruyere",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q219",
-    "text": "รักตัวเองในวันนี้ให้มากกว่าเดิม เพราะคุณคือคนคนเดียวที่จะอยู่และสนับสนุนตัวเองไปตลอดเส้นทางชีวิตนี้",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q220",
-    "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
-    "author": "Buddha",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q221",
-    "text": "ความเจ็บปวดในวันนี้จะค่อย ๆ อ่อนแรงลงเมื่อเวลาผ่านไป และรอยยิ้มจะกลับมาประดับหน้าคุณอีกครั้งแน่นอน",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q222",
-    "text": "Time heals all wounds.",
-    "author": "Proverb",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q223",
-    "text": "การจากลาเป็นส่วนหนึ่งของธรรมชาติ เพื่อล้างพื้นที่ให้สิ่งใหม่ที่ดีและสอดคล้องกับคุณได้ก้าวเข้ามา",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q224",
-    "text": "Every goodbye makes the next hello closer.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q225",
-    "text": "ถึงหัวใจจะร้าวรานจากคนใจร้ายในวันนี้ แต่จำไว้ว่าครอบครัวและกัลยาณมิตรของคุณยังโอบกอดคุณด้วยความรักเสมอ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q226",
-    "text": "Love is the only force capable of transforming an enemy into a friend.",
-    "author": "Martin Luther King Jr.",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "love"
-  },
-  {
-    "id": "q227",
-    "text": "หยุดจ้องมองประตูบานเดิมที่ปิดตายลงไปเถอะ หันมามองบานหน้าต่างและโอกาสใหม่ ๆ รอบข้างคุณดีกว่า",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q228",
-    "text": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
-    "author": "Helen Keller",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "life"
-  },
-  {
-    "id": "q229",
-    "text": "การอกหักและเจ็บปวดในวันนี้ คือวัคซีนชั้นดีที่ทำให้หัวใจของคุณมีภูมิคุ้มกันและฉลาดในการรักใครในวันหน้า",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q230",
-    "text": "What doesn't kill you makes you stronger.",
-    "author": "Friedrich Nietzsche",
-    "lang": "en",
-    "mood": "heartbroken",
-    "category": "growth"
-  },
-  {
-    "id": "q231",
-    "text": "ความล้มเหลวในการสอบหรือการเรียนรู้ไม่ได้ชี้วัดคุณค่าในตัวคุณ มันเป็นเพียงส่วนหนึ่งที่คุณต้องปรับปรุงในโอกาสหน้า",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "study"
-  },
-  {
-    "id": "q232",
-    "text": "Your grades do not define your intelligence or your worth.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "study"
-  },
-  {
-    "id": "q233",
-    "text": "อย่ากลัวที่จะทำคะแนนได้น้อยในการทำสิ่งใหม่ ๆ เพราะไม่มีใครที่ทำถูกต้องมาตั้งแต่การก้าวเดินวันแรก",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "study"
-  },
-  {
-    "id": "q234",
-    "text": "The expert in anything was once a beginner.",
-    "author": "Helen Hayes",
-    "lang": "en",
-    "mood": "tired",
-    "category": "study"
-  },
-  {
-    "id": "q235",
-    "text": "พักผ่อนคืนนี้ด้วยใจที่สงบ รอยแผลและความเจ็บใจในวันนี้จะได้รับการชะล้างด้วยนิทราอันเงียบสงบ",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q236",
-    "text": "A good laugh and a long sleep are the best cures in the doctor's book.",
-    "author": "Irish Proverb",
-    "lang": "en",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q237",
-    "text": "เมื่อคุณก้าวพลาดและล้มลง นั่นคือสัญญาณที่เตือนให้คุณได้พักเพื่อหายใจ ไม่ใช่จุดสิ้นสุดความพยายาม",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q238",
-    "text": "Falling down is an accident; staying down is a choice.",
-    "author": "Anonymous",
-    "lang": "en",
-    "mood": "tired",
-    "category": "growth"
-  },
-  {
-    "id": "q239",
-    "text": "จงใจดีกับตัวเองให้มาก ๆ โลกข้างนอกกดดันเรามากพอแล้ว อย่าปล่อยให้ตัวเราต้องซ้ำเติมใจตัวเราเองอีกเลย",
-    "author": "SparkMind",
-    "lang": "th",
-    "mood": "tired",
-    "category": "life"
-  },
-  {
-    "id": "q240",
-    "text": "Be kind to yourself. You are doing the best you can with what you have.",
-    "author": "Anonymous",
-    "lang": "en",
+    "text": {
+      "th": "จงใจดีกับตัวเองให้มาก ๆ โลกข้างนอกกดดันเรามากพอแล้ว อย่าปล่อยให้ตัวเราต้องซ้ำเติมใจตัวเราเองอีกเลย",
+      "en": "Be kind to yourself. You are doing the best you can with what you have."
+    },
+    "author": {
+      "th": "นิรนาม",
+      "en": "Anonymous"
+    },
     "mood": "tired",
     "category": "life"
   }
